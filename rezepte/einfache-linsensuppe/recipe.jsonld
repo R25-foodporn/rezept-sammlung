@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Einfache Linsensuppe",
+  "author": {
+    "@type": "Person",
+    "name": "Beauty Bites"
+  },
+  "description": "Easy Lentil Soup From Scratch – vegan, in ca. 30 Minuten",
+  "recipeYield": "3 Portionen",
+  "recipeIngredient": [
+    "1 Stück Zwiebel (fein gehackt)",
+    "1 Stück Knoblauchzehe (gehackt)",
+    "1 Stück saftige Tomate (gehackt)",
+    "0.5 Stück rote Paprika (fein gehackt)",
+    "frische Petersilie (zum Servieren, nach Belieben)",
+    "Paprika roh (zusätzlich zum Servieren (Vitamin C), nach Belieben)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Linsen mindestens 2–3 Stunden oder über Nacht einweichen (hilft gegen Antinährstoffe/Phytate und verkürzt die Garzeit), danach abgiessen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Zwiebel, Knoblauch, Paprika und Tomate schälen bzw. waschen und hacken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "In einem Topf bei mittlerer bis hoher Hitze Zwiebel und Knoblauch 1–2 Min. in Olivenöl anbraten, salzen. Paprika und Tomate zugeben und weitere 1–2 Min. unter Rühren mitbraten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Abgetropfte Linsen, Minze, Kreuzkümmel und Chiliflocken einrühren, nochmals salzen. Ca. 480 ml Wasser angriessen, Deckel drauf, aufkochen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Hitze reduzieren und ca. 20 Min. köcheln lassen, bis die Linsen weich sind (Gesamtzeit laut Quelle ca. 30 Min.)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Heiss mit frischer Petersilie und zusätzlicher roher Paprika servieren – Vitamin C unterstützt die Aufnahme von Eisen und Zink aus den Linsen."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/einfache-linsensuppe/",
+  "prepTime": "PT5M",
+  "cookTime": "PT25M",
+  "totalTime": "PT30M"
+}

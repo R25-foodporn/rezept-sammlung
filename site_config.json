@@ -24,6 +24,22 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/verdrehte-apfelkuchen-rollen/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fverdrehte-apfelkuchen-rollen%2F&source=web&baseQuantity=12&requestedQuantity=12",
       "frisch_count": 9
+    },
+    {
+      "slug": "einfache-linsensuppe",
+      "title": "Einfache Linsensuppe",
+      "portions": 3,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/einfache-linsensuppe/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Feinfache-linsensuppe%2F&source=web&baseQuantity=3&requestedQuantity=3",
+      "frisch_count": 6
+    },
+    {
+      "slug": "linsen-harissa-tomaten-sauce",
+      "title": "Linsen mit Harissa-Tomaten-Sauce",
+      "portions": 4,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/linsen-harissa-tomaten-sauce/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Flinsen-harissa-tomaten-sauce%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "frisch_count": 5
     }
   ]
 }

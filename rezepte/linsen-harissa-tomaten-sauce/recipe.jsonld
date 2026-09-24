@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Linsen mit Harissa-Tomaten-Sauce",
+  "author": {
+    "@type": "Person",
+    "name": "Julius Fiedler"
+  },
+  "description": "Julius’ Go-to-Methode – würzige Harissa-Linsen",
+  "recipeYield": "4 Portionen",
+  "recipeIngredient": [
+    "1 Stück grosse Zwiebel (ca. 200 g, fein gehackt)",
+    "3 Stück grosse Knoblauchzehen (fein gerieben)",
+    "200 g Cavolo nero oder dunkles Blattgemüse (optional)",
+    "1 EL Zitronensaft",
+    "Sauerteigbrot (zum Servieren)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Linsen in mindestens 1 l Wasser über Nacht einweichen (optional, aber hilfreich für die Verdauung). Abgiessen und abspülen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Linsen mit 650 ml Wasser in einen grossen Topf geben, aufkochen, dann bei leicht geöffnetem Deckel 15 Min. köcheln, bis sie noch leicht bissfest/untergar sind. Kochflüssigkeit aufbewahren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Parallel Olivenöl in einer grossen Pfanne erhitzen. Fein gehackte Zwiebel darin 8–10 Min. anbraten, bis sie goldgelb wird. Geriebenen Knoblauch 1 weitere Min. mitbraten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Harissa, Tomatenmark und Salz einrühren, bis die Zwiebeln gleichmässig überzogen sind."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Linsen samt Kochflüssigkeit zugeben (ggf. etwas Wasser nachgiessen). Optional gehacktes Blattgemüse mitgeben. Aufkochen, dann 5–10 Min. köcheln, bis die Linsen gar sind und die Flüssigkeit zu einer kräftigen Sauce eingekocht ist."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Zitronensaft unterrühren, Hitze aus, 1–2 Min. ruhen lassen (Sauce dickert nach). In Schüsseln anrichten, grosszügig mit Olivenöl beträufeln, mit geröstetem Sauerteigbrot servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/linsen-harissa-tomaten-sauce/",
+  "prepTime": "PT15M",
+  "cookTime": "PT35M",
+  "totalTime": "PT50M"
+}
