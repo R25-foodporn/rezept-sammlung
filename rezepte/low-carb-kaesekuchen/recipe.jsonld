@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Low-Carb-Käsekuchen",
+  "author": {
+    "@type": "Person",
+    "name": "Einfach Backen"
+  },
+  "description": "Bodenloser Quarkkuchen mit nur 5 Zutaten",
+  "recipeYield": "12 Portionen",
+  "recipeIngredient": [
+    "1000 g Magerquark",
+    "5 Stück Eier (Grösse M)",
+    "1 Stück Bio-Zitrone (Schale abreiben, ca. 2 EL Saft)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Springform (Ø 26 cm) mit Backpapier auslegen, Rand einfetten. Zitrone waschen, Schale abreiben; eine Hälfte auspressen (ca. 2 EL Saft bereithalten)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Ofen auf 160 °C Ober-/Unterhitze vorheizen (Umluft 140 °C)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Quark, Eier und Xylit mit der Zitronenschale glatt rühren. 2 EL Zitronensaft und Vanillepuddingpulver unterrühren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Teig in die Form füllen und ca. 60 Min. backen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Aus dem Ofen nehmen und vollständig auskühlen lassen. Ergibt laut Quelle 12 Stücke; gekühlt mindestens 4 Tage haltbar."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/low-carb-kaesekuchen/",
+  "prepTime": "PT15M",
+  "cookTime": "PT60M",
+  "totalTime": "PT75M"
+}

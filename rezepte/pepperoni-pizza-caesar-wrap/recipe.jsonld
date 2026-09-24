@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Pepperoni-Pizza-Caesar-Wrap",
+  "author": {
+    "@type": "Person",
+    "name": "Low Carb Love"
+  },
+  "description": "Knusprige Mozzarella-Pepperoni-Hülle mit Greek-Yogurt-Caesar",
+  "recipeYield": "1 Portionen",
+  "recipeIngredient": [
+    "40 g geriebener Mozzarella (Quelle: ⅓ cup ≈ 40 g)",
+    "7–10 Scheiben Truthahn-Pepperoni, nitratfrei",
+    "120 g natureller Greek Yogurt (Quelle: ½ cup ≈ 120 g)",
+    "1 EL Zitronensaft",
+    "0.5 TL Knoblauch, gehackt",
+    "1 EL geriebener Parmesan",
+    "40–60 g Romaine-Salat, gehackt (Quelle: 1–1½ cups)",
+    "Parmesan extra (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Airfryer-Korb mit Backpapier auslegen. Mozzarella zu einem tortillagrossen Kreis streuen, Pepperoni gleichmässig darauf verteilen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Bei 200 °C (Quelle: 400 °F) 8–10 Min. airfryen, bis der Käse tiefgoldbraun und an den Rändern knusprig ist. 1–2 Min. abkühlen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Dressing: Greek Yogurt, Dijon, Knoblauch, Zitronensaft, Worcestershire, Parmesan, Salz und Pfeffer glatt verrühren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Romaine mit dem Dressing vermengen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Käse-Pepperoni-Hülle lösen, Salat in die Mitte geben, wie Wrap oder Taco falten (noch leicht warm). Optional Parmesan und Chiliflocken."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/pepperoni-pizza-caesar-wrap/",
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M"
+}

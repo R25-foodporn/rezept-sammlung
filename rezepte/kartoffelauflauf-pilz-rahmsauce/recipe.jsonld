@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Kartoffelauflauf mit Pilz-Rahmsauce",
+  "author": {
+    "@type": "Person",
+    "name": "Chef_Robskitchen"
+  },
+  "description": "Kinderfreundlich mit Sellerie, Champignons und blanchiertem Brokkoli",
+  "recipeYield": "4 Portionen",
+  "recipeIngredient": [
+    "10–12 Stück festkochende Kartoffeln (mittelgross, ca. (geschätzt aus Video))",
+    "1 Stange Stangensellerie (ca. (geschätzt aus Video))",
+    "3–4 Stück braune Champignons (grosse, ca. (geschätzt aus Video))",
+    "0.5 Stück rote Zwiebel (ca. (geschätzt aus Video))",
+    "1 Stück Brokkoli (kleiner Kopf, ca. (geschätzt aus Video))",
+    "2 dl Rahm (1 kleiner Becher ≈ 2 dl, ca. (geschätzt aus Video))",
+    "100–150 g Käse zum Reiben (ca. (geschätzt aus Video))"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Kartoffeln schälen, in Stücke schneiden, in Salzwasser garkochen, abgiessen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Sellerie fein hacken, Champignons in Scheiben, Zwiebel würfeln. Brokkoli in Röschen teilen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Sellerie, Pilze und Zwiebel in etwas Öl anbraten. Rahm zugiessen, Paprikapulver und Kümmel einrühren; salzen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Käse reiben. Kartoffeln in eine Auflaufform (ca. 20×30 cm, geschätzt) geben, Rahmsauce darüber, Käse darauf."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Im Ofen backen, bis der Käse geschmolzen und goldbraun ist. Empfehlung, nicht aus Quelle: ca. 200 °C Ober-/Unterhitze, 15–20 Min."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Brokkoli kurz blanchieren oder anbraten. Zusammen mit dem Auflauf servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kartoffelauflauf-pilz-rahmsauce/",
+  "prepTime": "PT25M",
+  "cookTime": "PT20M",
+  "totalTime": "PT45M"
+}
