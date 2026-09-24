@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Verdrehte Apfelkuchen-Rollen",
+  "author": {
+    "@type": "Person",
+    "name": "Crispy Kitchen"
+  },
+  "description": "Twisted Apple Pie Rolls – weicher Hefeteig mit Zimt-Äpfeln und Glasur",
+  "recipeYield": "12 Portionen",
+  "recipeIngredient": [
+    "180 ml warme Milch (für den Teig)",
+    "120 g griechischer Joghurt 5 % (Quelle: ½ cup ≈ 120 g)",
+    "1 Stück Ei (für den Teig)",
+    "80 g gesalzene Butter, geschmolzen (für den Teig)",
+    "600 g Granny-Smith-Äpfel (geschält und fein gewürfelt)",
+    "50 g gesalzene Butter (für die Füllung)",
+    "0.5 Stück Zitrone (Saft davon)",
+    "1–2 EL Milch (für die Glasur)",
+    "1 Stück Eigelb (zum Bestreichen, mit Spritzer Milch)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Für den Teig: Brotmehl, warme Milch, griechischen Joghurt, Ei, Zucker, Trockenhefe, Salz, Vanille und geschmolzene Butter vermengen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "12–15 Min. kneten, bis der Teig weich, glatt und leicht klebrig ist. Langes Kneten nicht überspringen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Teig in 12 Kugeln teilen, zudecken und 1 Stunde gehen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Für die Füllung: Butter schmelzen, gewürfelte Äpfel, braunen Zucker, Ahornsirup, Zimt, optional Apfelkuchen-Gewürz und eine Prise Salz zugeben. 3–4 Min. garen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Speisestärke mit 15 ml Wasser anrühren, zu den Äpfeln geben und weitere 1–2 Min. kochen, bis die Füllung eindickt. Vom Herd nehmen, Zitronensaft und 2 TL Vanille unterrühren. Vollständig auskühlen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Jede Teigkugel ausrollen, abgekühlte Apfelfüllung darauf verteilen. Zusammenklappen, einschneiden und verdrehen (wie im Video)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Die verdrehten Rollen auf ein Backblech legen und 20 Min. ruhen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "text": "Mit Eigelb und einem Spritzer Milch bestreichen. Bei 175 °C (Quelle: 350 °F) 15–20 Min. goldbraun backen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "text": "Rollen leicht abkühlen lassen. Puderzucker mit 1–2 EL Milch und optional Vanille zur Glasur verrühren, über die warmen Rollen träufeln und geniessen."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/verdrehte-apfelkuchen-rollen/",
+  "prepTime": "PT40M",
+  "cookTime": "PT20M",
+  "totalTime": "PT140M"
+}
