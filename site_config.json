@@ -130,6 +130,14 @@
       "frisch_count": 2
     },
     {
+      "slug": "protein-bolognese-fuer-kinder",
+      "title": "Protein-Bolognese für Kinder",
+      "portions": 4,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/protein-bolognese-fuer-kinder/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fprotein-bolognese-fuer-kinder%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "frisch_count": 6
+    },
+    {
       "slug": "rajma-masala",
       "title": "Rajma Masala",
       "portions": 6,

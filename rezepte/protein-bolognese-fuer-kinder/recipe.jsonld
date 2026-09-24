@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Protein-Bolognese für Kinder",
+  "author": {
+    "@type": "Person",
+    "name": "Chef_Robskitchen"
+  },
+  "description": "Hackfleisch-Sauce mit Champignons, Karotte und Parmesan",
+  "recipeYield": "4 Portionen",
+  "recipeIngredient": [
+    "400 g Rinderhackfleisch (Weidehaltung)",
+    "2 Stück rote Zwiebeln",
+    "125 g Champignons",
+    "1 Stück Karotte (grosse)",
+    "3 Stück Knoblauchzehen",
+    "0.5 Block Parmesan (zum Reiben; Quelle: halber Block)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Karotte schälen und würfeln, Zwiebeln hacken, Champignons klein schneiden. Knoblauch pressen oder fein hacken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "In einem grossen Topf Rinderhackfleisch in etwas Rindertalg anbraten, bis es kräftig gebräunt ist."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Karotte, Zwiebeln und Champignons dazugeben und kurz mitbraten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Passierte Tomaten und Knoblauch zugiessen. Köcheln lassen. Empfehlung, nicht aus Quelle: ca. 20–30 Min."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Mit Steinsalz und Pfeffer abschmecken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Spaghetti nach Packungsangabe kochen (Menge nach Belieben). Sauce über die Nudeln geben, Parmesan frisch darüberreiben und servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/protein-bolognese-fuer-kinder/",
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT45M"
+}
