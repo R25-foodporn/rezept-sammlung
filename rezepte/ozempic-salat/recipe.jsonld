@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Ozempic-Salat",
+  "author": {
+    "@type": "Person",
+    "name": "Nicol & Giannina"
+  },
+  "description": "Viraler Weißkohl-Salat mit Avocado-Apfel-Dressing",
+  "recipeYield": "2 Portionen",
+  "recipeIngredient": [
+    "150 g Weisskohl (fein geschnitten)",
+    "1 Stück Gurke",
+    "frischer Koriander (kleine Handvoll)",
+    "2 Stück Avocados (fürs Dressing)",
+    "2 Stück grüne Äpfel (mit Schale, fürs Dressing)",
+    "Zitronensaft (etwas, nach Belieben)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Weisskohl fein schneiden oder hobeln (ca. 150 g). Gurke waschen und in Stücke oder Scheiben schneiden."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Dressing: 2 Avocados und 2 grüne Äpfel (mit Schale) mit etwas Zitronensaft cremig pürieren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Weisskohl und Gurke mit dem Dressing vermengen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Mit einer kleinen Handvoll frischem Koriander und etwas Sesam bestreuen und sofort servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/ozempic-salat/",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M"
+}

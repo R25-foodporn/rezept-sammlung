@@ -40,6 +40,22 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/linsen-harissa-tomaten-sauce/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Flinsen-harissa-tomaten-sauce%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "frisch_count": 5
+    },
+    {
+      "slug": "ozempic-salat",
+      "title": "Ozempic-Salat",
+      "portions": 2,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/ozempic-salat/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fozempic-salat%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "frisch_count": 6
+    },
+    {
+      "slug": "chinesischer-kartoffelsalat",
+      "title": "Chinesischer Kartoffelsalat (vegan)",
+      "portions": 2,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/chinesischer-kartoffelsalat/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fchinesischer-kartoffelsalat%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "frisch_count": 5
     }
   ]
 }
