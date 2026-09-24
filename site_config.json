@@ -1,0 +1,21 @@
+{
+  "base_url": "https://r25-foodporn.github.io/rezept-sammlung",
+  "recipes": [
+    {
+      "slug": "rindsgeschnetzeltes-roesti",
+      "title": "Rindsgeschnetzeltes mit Rösti",
+      "portions": 4,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rindsgeschnetzeltes-roesti/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Frindsgeschnetzeltes-roesti%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "frisch_count": 8
+    },
+    {
+      "slug": "gemuese-lasagne-mealprep",
+      "title": "Gemüse-Lasagne mit Linsen-Bolognese",
+      "portions": 8,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gemuese-lasagne-mealprep/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgemuese-lasagne-mealprep%2F&source=web&baseQuantity=8&requestedQuantity=8",
+      "frisch_count": 24
+    }
+  ]
+}

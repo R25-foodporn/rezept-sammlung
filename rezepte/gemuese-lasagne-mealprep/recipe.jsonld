@@ -1,0 +1,143 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Gemüse-Lasagne mit Linsen-Bolognese",
+  "author": {
+    "@type": "Person",
+    "name": "FoodieBootie Rezeptsammlung"
+  },
+  "description": "Mealprep-Klassiker – 8 Portionen, einfrierbar",
+  "recipeYield": "8 Portionen",
+  "recipeIngredient": [
+    "3 Stück Karotten",
+    "2 Stangen Sellerie",
+    "2 Stück Zwiebeln",
+    "3 Stück Knoblauchzehen",
+    "2 Stück Zucchini",
+    "1 Stück Aubergine",
+    "300 g Champignons",
+    "200 g Spinat frisch",
+    "250 g Mozzarella",
+    "80 g Parmesan (gerieben)",
+    "8 dl Vollmilch",
+    "60 g Butter",
+    "1 Bund Basilikum",
+    "0.5 Bund Petersilie",
+    "1 Stück Zitrone (Abrieb)",
+    "200 g Kirschtomaten",
+    "250 g Ricotta",
+    "1 Stück Ei (für Ricotta-Schicht)",
+    "1 Stück Peperoni rot",
+    "1 Stange Lauch",
+    "2 Stück Karotten extra (für mehr Sauce)",
+    "100 g Sellerieknolle",
+    "150 g Frischkäse natur",
+    "50 g Rucola (zum Servieren)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Gemüse waschen und klein schneiden: Karotten und Sellerie in feine Würfel, Zwiebeln und Knoblauch hacken, Zucchini und Aubergine in Scheiben, Champignons vierteln."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "In einem grossen Topf Olivenöl erhitzen. Zwiebeln, Karotten und Sellerie 5 Min. andünsten, Knoblauch und Tomatenmark kurz mitrösten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Linsen und Dosentomaten zugeben, mit Bouillon aufgiessen. Oregano, Thymian, Lorbeer, Chili, Salz und Pfeffer würzen. 20 Min. köcheln lassen, bis die Linsen weich sind."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Zucchini-, Auberginen- und Champignonscheiben in einer Pfanne mit wenig Öl portionsweise anbraten, salzen. Spinat kurz zusammenfallen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Für die Béchamel: Butter schmelzen, Mehl einrühren, mit Milch ablöschen und unter Rühren dicklich einkochen. Mit Salz, Pfeffer und Muskat abschmecken; Parmesan untermischen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Auflaufform einölen. Abwechselnd schichten: Linsen-Bolognese, Gemüse, Lasagneplatten, Béchamel. Mit Mozzarella und restlichem Parmesan abschliessen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Im vorgeheizten Ofen bei 190 °C Umluft ca. 35–40 Min. backen, bis die Oberfläche goldbraun ist. 10 Min. ruhen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "text": "Mit Basilikum und Petersilie bestreuen. In 8 Portionen schneiden und warm oder zum Mealprep abpacken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "text": "Optional: Kirschtomaten halbieren und in den letzten 10 Min. mitbacken für extra Saftigkeit."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 10,
+      "text": "Reste vollständig auskühlen lassen, bevor sie in die Kühl- oder Gefrierbehälter kommen – so bleibt die Konsistenz besser."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 11,
+      "text": "Zum Aufwärmen aus dem Kühlschrank: bei 160 °C ca. 20 Min. im Ofen oder portionsweise in der Mikrowelle."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 12,
+      "text": "Aus dem Gefrierfach: über Nacht auftauen, dann wie oben aufwärmen; bei Bedarf mit einem Schuss Bouillon oder Milch nachfeuchten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 13,
+      "text": "Ricotta mit Ei, Salz, Pfeffer und etwas Zitronenabrieb verrühren – ergibt eine cremige Zwischenschicht."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 14,
+      "text": "Peperoni und Lauch in feine Streifen schneiden und mit den übrigen Gemüsestücken mitbraten, bis alles weich und leicht braun ist."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 15,
+      "text": "Die Linsen-Sauce abschmecken: bei Bedarf Zucker und Balsamico für Balance, Chiliflocken nach Schärfegrad."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 16,
+      "text": "Form mit etwas Olivenöl ausstreichen, Boden mit einer dünnen Sauce-Schicht bedecken, damit nichts anklebt."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 17,
+      "text": "Schichten: Sauce – Platten – Gemüse – Ricotta – Béchamel; 3–4 Lagen wiederholen, oben mit Mozzarella und Parmesan abschliessen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 18,
+      "text": "Optional Paniermehl und Rosmarin über den Käse streuen für eine knusprige Kruste."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 19,
+      "text": "Nach dem Backen 15 Min. ruhen lassen, sonst zerläuft die Lasagne beim Schneiden."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 20,
+      "text": "Mealprep-Variante: vor dem Backen portionieren und roh einfrieren; dann aus dem Gefrierfach bei 170 °C ca. 50–55 Min. backen (mit Folie starten)."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gemuese-lasagne-mealprep/",
+  "prepTime": "PT45M",
+  "cookTime": "PT50M",
+  "totalTime": "PT95M"
+}
