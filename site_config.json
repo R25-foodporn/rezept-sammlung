@@ -7,7 +7,6 @@
       "portions": 4,
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rindsgeschnetzeltes-roesti/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Frindsgeschnetzeltes-roesti%2F&source=web&baseQuantity=4&requestedQuantity=4",
-      "source_json": "/workspace/rezept-templates/example_recipe.json",
       "frisch_count": 8
     },
     {
@@ -16,7 +15,6 @@
       "portions": 8,
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gemuese-lasagne-mealprep/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgemuese-lasagne-mealprep%2F&source=web&baseQuantity=8&requestedQuantity=8",
-      "source_json": "/workspace/rezept-templates/example_recipe_long.json",
       "frisch_count": 24
     },
     {
@@ -25,7 +23,6 @@
       "portions": 12,
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/verdrehte-apfelkuchen-rollen/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fverdrehte-apfelkuchen-rollen%2F&source=web&baseQuantity=12&requestedQuantity=12",
-      "source_json": "/workspace/rezept-templates/recipes/verdrehte-apfelkuchen-rollen.json",
       "frisch_count": 9
     },
     {
@@ -34,7 +31,6 @@
       "portions": 3,
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/einfache-linsensuppe/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Feinfache-linsensuppe%2F&source=web&baseQuantity=3&requestedQuantity=3",
-      "source_json": "/workspace/rezept-templates/recipes/einfache-linsensuppe.json",
       "frisch_count": 6
     },
     {
@@ -43,7 +39,6 @@
       "portions": 4,
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/linsen-harissa-tomaten-sauce/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Flinsen-harissa-tomaten-sauce%2F&source=web&baseQuantity=4&requestedQuantity=4",
-      "source_json": "/workspace/rezept-templates/recipes/linsen-harissa-tomaten-sauce.json",
       "frisch_count": 5
     },
     {
@@ -52,7 +47,6 @@
       "portions": 2,
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/ozempic-salat/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fozempic-salat%2F&source=web&baseQuantity=2&requestedQuantity=2",
-      "source_json": "/workspace/rezept-templates/recipes/ozempic-salat.json",
       "frisch_count": 6
     },
     {
@@ -61,7 +55,6 @@
       "portions": 2,
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/chinesischer-kartoffelsalat/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fchinesischer-kartoffelsalat%2F&source=web&baseQuantity=2&requestedQuantity=2",
-      "source_json": "/workspace/rezept-templates/recipes/chinesischer-kartoffelsalat.json",
       "frisch_count": 5
     },
     {
@@ -70,7 +63,6 @@
       "portions": 6,
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/norddeutscher-kartoffelsalat/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fnorddeutscher-kartoffelsalat%2F&source=web&baseQuantity=6&requestedQuantity=6",
-      "source_json": "/workspace/rezept-templates/recipes/norddeutscher-kartoffelsalat.json",
       "frisch_count": 4
     },
     {
@@ -79,7 +71,6 @@
       "portions": 6,
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/schwaebischer-kartoffelsalat/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fschwaebischer-kartoffelsalat%2F&source=web&baseQuantity=6&requestedQuantity=6",
-      "source_json": "/workspace/rezept-templates/recipes/schwaebischer-kartoffelsalat.json",
       "frisch_count": 2
     },
     {
@@ -88,7 +79,6 @@
       "portions": 1,
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/pepperoni-pizza-caesar-wrap/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fpepperoni-pizza-caesar-wrap%2F&source=web&baseQuantity=1&requestedQuantity=1",
-      "source_json": "/workspace/rezept-templates/recipes/pepperoni-pizza-caesar-wrap.json",
       "frisch_count": 8
     },
     {
@@ -97,7 +87,6 @@
       "portions": 4,
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kartoffelauflauf-pilz-rahmsauce/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkartoffelauflauf-pilz-rahmsauce%2F&source=web&baseQuantity=4&requestedQuantity=4",
-      "source_json": "/workspace/rezept-templates/recipes/kartoffelauflauf-pilz-rahmsauce.json",
       "frisch_count": 7
     },
     {
@@ -106,7 +95,6 @@
       "portions": 12,
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/low-carb-kaesekuchen/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Flow-carb-kaesekuchen%2F&source=web&baseQuantity=12&requestedQuantity=12",
-      "source_json": "/workspace/rezept-templates/recipes/low-carb-kaesekuchen.json",
       "frisch_count": 3
     }
   ]
