@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Französische Apfeltarte",
+  "author": {
+    "@type": "Person",
+    "name": "Erin Clarke"
+  },
+  "description": "Blätterteig mit karamellisierten Äpfeln, Honig und Zimt",
+  "recipeYield": "6 Portionen",
+  "recipeIngredient": [
+    "6 EL ungesalzene Butter (in 6 Stücke geteilt (ca. 85 g))",
+    "2 Stück Äpfel (mittelgross, knackig (z. B. Honeycrisp oder Granny Smith), dünn geschnitten)",
+    "1 Stück Ei (gross, für Eistreiche)",
+    "1 TL Wasser (für Eistreiche)",
+    "1 Platte Blätterteig (tiefgekühlt, aufgetaut)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Ofen auf 200 °C vorheizen (Quelle: 400 °F). Backblech mit Backpapier auslegen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Honig in 6 gleichmässigen Portionen auf das Backpapier träufeln. Auf jede Portion 1 Stück Butter setzen und mit braunem Zucker, Zimt und Salz bestreuen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Apfelscheiben Dachziegel-artig auf Honig und Butter legen, ca. 20×25 cm Rechteck (Quelle: approx. 8×10 inch)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Blätterteig etwas grösser als die Apfelfläche ausrollen und darüberlegen. Ränder mit einer Gabel andrücken, mit Eistreiche (Ei + 1 TL Wasser) bestreichen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "30 Min. backen, bis tief goldbraun und aufgegangen. 5–10 Min. abkühlen lassen, dann vorsichtig auf ein Brett stürzen. Backpapier entfernen, optional mit Puderzucker bestäuben, schneiden und servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/franzoesische-apfeltarte/",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT55M"
+}

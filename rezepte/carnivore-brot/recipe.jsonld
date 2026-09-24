@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Carnivore-Brot",
+  "author": {
+    "@type": "Person",
+    "name": "Coach Carnivore Cam"
+  },
+  "description": "Mehlfreies Eiweissbrot mit Hüttenkäse – low carb",
+  "recipeYield": "10 Portionen",
+  "recipeIngredient": [
+    "4 Stück Eier (bio/Freiland wenn möglich)",
+    "100 g Butter (grasgefüttert bevorzugt)",
+    "300 g Hüttenkäse (Quelle: cottage cheese)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Ofen auf 160 °C vorheizen. Kastenform mit Backpapier auslegen und leicht mit Butter einfetten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "4 Eier, 100 g Butter und 300 g Hüttenkäse im Mixer glatt pürieren, bis die Masse cremig und puddingartig ist. In einen Krug giessen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "120 g Eiweisspulver, 2 TL Natron und 1 TL Backpulver zugeben. Gut verrühren, bis ein dicker, giessbarer Teig ohne Klumpen entsteht."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Teig in die Form giessen. 35 Min. bei 160 °C backen – Ofentür nicht öffnen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Mindestens 10 Min. in der Form abkühlen lassen, dann herausnehmen und weitere 10–20 Min. auskühlen, bevor es geschnitten wird (sonst bricht es). Ergibt ca. 10 Scheiben."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/carnivore-brot/",
+  "prepTime": "PT15M",
+  "cookTime": "PT35M",
+  "totalTime": "PT70M"
+}

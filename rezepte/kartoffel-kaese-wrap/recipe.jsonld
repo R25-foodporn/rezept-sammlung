@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Kartoffel-Käse-Wrap",
+  "author": {
+    "@type": "Person",
+    "name": "leilakocht"
+  },
+  "description": "2-Zutaten-Wrap aus dem Ofen – Resteküche",
+  "recipeYield": "2 Portionen",
+  "recipeIngredient": [
+    "Kartoffeln (dünn geschnitten – Menge nach Belieben (Quelle ohne Angabe))",
+    "Käse (gerieben, zum Bestreuen – Menge nach Belieben)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Kartoffeln in dünne Scheiben schneiden, auf ein mit Backpapier belegtes Blech legen und mit Käse bestreuen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Bei 200 °C Ober-/Unterhitze (180 °C Umluft) backen, bis alles goldbraun und knusprig ist."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Kurz abkühlen lassen, vorsichtig wenden und nach Belieben belegen (Resteküche)."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kartoffel-kaese-wrap/",
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M"
+}

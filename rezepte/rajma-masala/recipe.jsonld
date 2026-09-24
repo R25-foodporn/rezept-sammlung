@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Rajma Masala",
+  "author": {
+    "@type": "Person",
+    "name": "Rainbow Plant Life"
+  },
+  "description": "Indisches Kidneybohnen-Curry – samtig und würzig",
+  "recipeYield": "6 Portionen",
+  "recipeIngredient": [
+    "450 g getrocknete rote Kidneybohnen (über Nacht eingeweicht)",
+    "1 Stück grosse gelbe Zwiebel (fein gewürfelt, ca. 300 g)",
+    "1–2 Stück Serrano-Peperoncini (entstielt, leicht eingeschnitten; 2 = schärfer)",
+    "6 Stück Knoblauchzehen (für die Masala; zerdrückt)",
+    "2.5 cm frischer Ingwer (ca. 8 g, geschält – für die Masala)",
+    "400 g reife Tomaten (püriert)",
+    "16 g frischer Koriander (Blätter und zarte Stiele, gehackt (1 cup))",
+    "Zitrone (einige Spritzer Saft)",
+    "2 Stück Knoblauchzehen (fürs Tadka, in Stifte)",
+    "2.5 cm frischer Ingwer (fürs Tadka, in Stifte)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Bohnen: Mit kaltem Wasser bedecken, 1½ EL Salz einrühren, 8–12 Std. einweichen. Abgiessen und spülen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Eingeweichte Bohnen mit 2,1 l Wasser, optional ½ TL Natron und 1 TL Öl aufkochen, Schaum abschöpfen. 10 Min. halb zugedeckt kochen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "2 TL Salz, 1 Zimtstange und 2 Tej-Patta zugeben. Sehr sanft köcheln, bis die Bohnen zwischen den Fingern zerdrücken (ca. 40–45 Min. nach 10-Std.-Einweichen mit Natron). Abseihen, Flüssigkeit auffangen (4½ cups / 1,1 l; ggf. mit Wasser auffüllen). Gewürze verwerfen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Masala: 3 EL Öl erhitzen, Zimtstange, 2 Tej-Patta und optional 2 schwarze Kardamom 30–45 Sek. rösten. 2 TL Kreuzkümmelsamen 10 Sek. mitrösten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Zwiebel und Serrano mit Salz 12–15 Min. tief bräunen. Knoblauch-Ingwer-Paste mit Tomatenmark 90 Sek. einrühren, dann Tomatenpüree, Salz und Pfeffer ca. 10 Min. stark köcheln lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Gemahlene Gewürze (Koriander, Kashmiri, Kreuzkümmel, Kurkuma, optional Asant) mit etwas Wasser 1 Min. einrühren. Topf vom Herd nehmen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Masala und Bohnen vermengen, 1,1 l Kochflüssigkeit zugeben. Aufkochen, 20 Min. zugedeckt köcheln, dann 10 Min. offen einkochen lassen. Lorbeer, Zimt, Serrano und Kardamom entfernen; Koriander und Zitronensaft unterrühren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "text": "Tadka: 2 EL Öl/Butter mit Knoblauch- und Ingwerstiften 1–2 Min. brutzeln, Fenugreek, Garam Masala und ½ TL Kashmiri 20–30 Sek. mitrösten, über das Rajma giessen. Mit Reis oder Fladenbrot servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rajma-masala/",
+  "prepTime": "PT30M",
+  "cookTime": "PT90M",
+  "totalTime": "PT120M"
+}

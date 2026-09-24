@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Gesunder New-York-Cheesecake",
+  "author": {
+    "@type": "Person",
+    "name": "Coach Carnivore Cam"
+  },
+  "description": "Mit Brown-Butter-Cookie-Boden – ohne Mehl und Raffinadezucker",
+  "recipeYield": "8 Portionen",
+  "recipeIngredient": [
+    "80 g Butter (für den Cookie-Boden, braun rösten)",
+    "2 Stück Eigelb (bio, für den Cookie-Teig)",
+    "500 g Doppelrahmfrischkäse (organic cream cheese, Zimmertemperatur)",
+    "250 g Mascarpone (Zimmertemperatur)",
+    "2 Stück Eier (für die Füllung)",
+    "Zitrone (Saft frisch, Menge nach Belieben (Quelle: a squeeze))"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Cookie-Boden: 80 g Butter bei mittlerer Hitze braun rösten (schäumen lassen, bis nussig und tiefgold; nicht verbrennen). In einen Krug giessen und leicht abkühlen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "2 Eigelb, 1 EL Ahornsirup, 1 EL Vanille und 1 Prise Salz unterrühren. 4 EL Milchpulver, 2 EL Eiweisspulver und 1 EL Collagen zugeben, zu einem Teig verkneten. 30 Min. kühlen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "4 Cookies formen, auf Backblech mit Papier 12 Min. bei 170 °C backen. Abkühlen, zerbröseln und fein mixen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Form mit Butter und Backpapier auslegen. Krümel fest eindrücken, 10 Min. bei 170 °C nachbacken. Boden abkühlen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Füllung: 500 g Frischkäse und 250 g Mascarpone glatt rühren (Zimmertemperatur). 2 Eier, etwas Zitronensaft, Ahornsirup nach Belieben und 1 EL Vanille unterziehen – nicht überrühren (sonst Risse)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Füllung auf den Boden giessen, glatt streichen. 45 Min. bei 160 °C backen; eine Schale heisses Wasser darunter stellen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Ofen ausschalten, 15 Min. Tür geschlossen, dann 15 Min. Tür einen Spalt offen abkühlen. 1 Std. bei Raumtemperatur, danach mind. 6 Std. (besser über Nacht) kühlen. In 8 Stücke schneiden."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gesunder-new-york-cheesecake/",
+  "prepTime": "PT45M",
+  "cookTime": "PT67M",
+  "totalTime": "PT600M"
+}
