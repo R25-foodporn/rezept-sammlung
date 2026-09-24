@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Norddeutscher Kartoffelsalat",
+  "author": {
+    "@type": "Person",
+    "name": "KELADAM"
+  },
+  "description": "Mit Mayonnaise, Eiern und Gewürzgurken (Team Nord)",
+  "recipeYield": "6 Portionen",
+  "recipeIngredient": [
+    "1500 g festkochende Kartoffeln",
+    "1 Stück Gemüsezwiebel",
+    "3 Stück Eier",
+    "1 Bund Petersilie"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Kartoffeln waschen und in Salzwasser gar kochen (je nach Grösse ca. 20–25 Min.). Abgiessen, etwas ausdampfen lassen, schälen und noch warm in Scheiben oder Würfel schneiden."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Eier hart kochen, abschrecken, schälen und würfeln. Gemüsezwiebel fein würfeln. Gewürzgurken klein schneiden. Petersilie hacken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Kartoffeln mit Rapsöl, Senf, Gewürzgurken, Gurkenwasser, Zwiebel und den Eiern vermengen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Mayonnaise unterheben, mit Salz und Pfeffer abschmecken. Petersilie unterheben oder darüberstreuen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Mindestens 30 Min. durchziehen lassen (besser länger / über Nacht im Kühlschrank). Vor dem Servieren nochmals abschmecken."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/norddeutscher-kartoffelsalat/",
+  "prepTime": "PT25M",
+  "cookTime": "PT25M",
+  "totalTime": "PT60M"
+}

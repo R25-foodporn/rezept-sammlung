@@ -56,6 +56,22 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/chinesischer-kartoffelsalat/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fchinesischer-kartoffelsalat%2F&source=web&baseQuantity=2&requestedQuantity=2",
       "frisch_count": 5
+    },
+    {
+      "slug": "norddeutscher-kartoffelsalat",
+      "title": "Norddeutscher Kartoffelsalat",
+      "portions": 6,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/norddeutscher-kartoffelsalat/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fnorddeutscher-kartoffelsalat%2F&source=web&baseQuantity=6&requestedQuantity=6",
+      "frisch_count": 4
+    },
+    {
+      "slug": "schwaebischer-kartoffelsalat",
+      "title": "Schwäbischer Kartoffelsalat",
+      "portions": 6,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/schwaebischer-kartoffelsalat/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fschwaebischer-kartoffelsalat%2F&source=web&baseQuantity=6&requestedQuantity=6",
+      "frisch_count": 2
     }
   ]
 }
