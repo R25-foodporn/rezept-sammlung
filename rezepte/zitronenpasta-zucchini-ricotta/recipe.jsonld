@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Zitronenpasta mit Zucchini und Ricotta",
+  "author": {
+    "@type": "Person",
+    "name": "Bruno Pecorino"
+  },
+  "description": "Sommerpasta al limone mit Tomate und Basilikum",
+  "recipeYield": "3 Portionen",
+  "recipeIngredient": [
+    "2 Hände voll Tomaten (gewürfelt; Mini-Tomaten ganz lassen)",
+    "1 Stück Zucchini (halbiert, in Streifen)",
+    "1 Stück Zwiebel (fein gewürfelt)",
+    "1 Stück Knoblauchzehe (fein gehackt)",
+    "250 g Ricotta",
+    "1 Stück Bio-Zitrone (Abrieb (Zesten) einer ganzen; Saft einer ½ Zitrone)",
+    "Basilikum (Blätter, nach Belieben)",
+    "Pecorino oder Parmesan (optional zum Reiben über dem Teller, ca. (geschätzt aus Video))"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Zwiebel halbieren und fein würfeln, Knoblauch fein hacken. In einer Pfanne bei mittlerer Hitze reichlich Olivenöl erhitzen, Zwiebel und Knoblauch andünsten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Zucchini der Länge nach halbieren und in Streifen schneiden. Zu den angedünsteten Zwiebeln geben, mit Salz und Pfeffer würzen und schwenken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Hitze reduzieren. Ricotta, Zitronenzesten und den Saft einer halben Zitrone einrühren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Pasta parallel in reichlich gesalzenem Wasser al dente kochen. Tomaten in grosse Würfel schneiden (Mini-Tomaten ganz lassen)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Abgegossene Pasta in die Pfanne geben, etwas Pastawasser unterheben. Herd aus: Tomaten und Basilikumblätter unterschwenken, mit Pfeffer abschmecken. Optional Pecorino darüberreiben und servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/zitronenpasta-zucchini-ricotta/",
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M"
+}

@@ -160,6 +160,14 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/thai-rindfleischsalat-yum-neua/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fthai-rindfleischsalat-yum-neua%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "frisch_count": 8
+    },
+    {
+      "slug": "zitronenpasta-zucchini-ricotta",
+      "title": "Zitronenpasta mit Zucchini und Ricotta",
+      "portions": 3,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/zitronenpasta-zucchini-ricotta/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fzitronenpasta-zucchini-ricotta%2F&source=web&baseQuantity=3&requestedQuantity=3",
+      "frisch_count": 8
     }
   ]
 }
