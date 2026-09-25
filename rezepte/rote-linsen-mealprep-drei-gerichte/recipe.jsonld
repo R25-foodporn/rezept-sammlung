@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Rote Linsen Mealprep: Dip, Pastasauce und Fritter",
+  "author": {
+    "@type": "Person",
+    "name": "Earthy Goodness Kitchen"
+  },
+  "description": "Eine Charge gekochte Linsen – drei vegane Gerichte",
+  "recipeYield": "4 Portionen",
+  "recipeIngredient": [
+    "1 Stück Knoblauchzehe, klein (Dip; fein gerieben)",
+    "1–2 EL Zitronensaft (Dip)",
+    "ca. 500 g Butternut-Kürbis (Pasta: ½ mittelgross, geschält, in Stücken; Rest gerieben für Fritter (Video))",
+    "4 Stück Knoblauchzehen (Pasta: ungeschält rösten)",
+    "1 Stück Rosmarinzweig (Pasta; zum Rösten)",
+    "100 g Seidentofu (Pasta; ca. ⅓ cup)",
+    "rote Paprika (Fritter; gewürfelt – ca. (geschätzt aus Video) / nach Belieben)",
+    "Frühlingszwiebeln (Fritter; in Ringe – ca. (geschätzt aus Video) / nach Belieben; oder Zwiebel)",
+    "Knoblauch, gehackt (Fritter – nach Belieben (Video); zusätzlich zur Dip-/Pasta-Knoblauch)",
+    "Limettenabrieb (Fritter; nur Abrieb, kein Saft – nach Belieben (Video))"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Basis: 300 g rote Linsen kalt abspülen. Mit 1 l Gemüsebouillon aufkochen, 12–15 Min. ungedeckt köcheln, bis weich aber nicht matschig. Absieben. Ergibt ca. 750 g gekochte Linsen (Kühlschrank)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Dip (ca. 350–400 g): 1 kleine Knoblauchzehe fein reiben, mit 1–2 EL Zitronensaft 5–10 Min. ziehen lassen. 250 g gekochte Linsen, 50 g Tahini, ½ TL Kreuzkümmel, ½ TL Harissa, ½ TL geräuchertes Paprika, 1 EL Olivenöl, Salz und Pfeffer pürieren. Bei Bedarf etwas kaltes Wasser. Mit Dukkah oder Harissa-Öl anrichten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Pastasauce: ca. 500 g Butternut-Stücke, 4 ungeschälte Knoblauchzehen und 1 Rosmarinzweig mit 1 EL Öl, Salz und Pfeffer mischen. Bei 210 °C Umluft 25–30 Min. rösten (oder Heissluft 170 °C 15–18 Min.), bis karamellisiert."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Knoblauch ausdrücken. Mit Kürbis, 250 g Linsen, 100 g Seidentofu, 2 EL getrocknete-Tomaten-Paste, 250 ml Bouillon, ½ TL Salbei und 1 TL Sherry-Essig glatt pürieren. 300–350 g Nudeln al dente kochen, etwas Nudelwasser aufbewahren. Sauce erwärmen, Nudeln untermischen, mit Nudelwasser lockern; veganen Parmesan darüber."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Fritter (Mengen teils ca. aus Video): 2 EL Öl erhitzen; Paprika und Frühlingszwiebel kurz anbraten, geriebenen Kürbis mitbraten bis Feuchtigkeit weg. Knoblauch, Fajita-Gewürz und Oregano kurz mitrösten. Gekochte Linsen zugeben und etwas antrocknen. In Schüssel: 60 g Kartoffelstärke, Leinsamen, Limettenabrieb, Salz und Pfeffer untermischen. 30–60 Min. kühlen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Mit feuchten Händen formen. In 1 EL Öl bei mittlerer Hitze ca. 3 Min. erste Seite, 2–3 Min. zweite Seite goldbraun braten (Ofen/Heissluft möglich). Mit Guacamole, Salsa oder Cashew-Creme servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rote-linsen-mealprep-drei-gerichte/",
+  "prepTime": "PT25M",
+  "cookTime": "PT45M",
+  "totalTime": "PT70M"
+}

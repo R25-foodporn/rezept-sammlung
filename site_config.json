@@ -7,7 +7,7 @@
       "portions": 4,
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rindsgeschnetzeltes-roesti/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Frindsgeschnetzeltes-roesti%2F&source=web&baseQuantity=4&requestedQuantity=4",
-      "source_json": "recipes/example_recipe.json",
+      "source_json": "example_recipe.json",
       "frisch_count": 8
     },
     {
@@ -16,7 +16,7 @@
       "portions": 8,
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gemuese-lasagne-mealprep/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgemuese-lasagne-mealprep%2F&source=web&baseQuantity=8&requestedQuantity=8",
-      "source_json": "recipes/example_recipe_long.json",
+      "source_json": "example_recipe_long.json",
       "frisch_count": 24
     },
     {
@@ -206,6 +206,15 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rajma-masala/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Frajma-masala%2F&source=web&baseQuantity=6&requestedQuantity=6",
       "source_json": "recipes/rajma-masala.json",
+      "frisch_count": 10
+    },
+    {
+      "slug": "rote-linsen-mealprep-drei-gerichte",
+      "title": "Rote Linsen Mealprep: Dip, Pastasauce und Fritter",
+      "portions": 4,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rote-linsen-mealprep-drei-gerichte/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Frote-linsen-mealprep-drei-gerichte%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "source_json": "recipes/rote-linsen-mealprep-drei-gerichte.json",
       "frisch_count": 10
     },
     {
