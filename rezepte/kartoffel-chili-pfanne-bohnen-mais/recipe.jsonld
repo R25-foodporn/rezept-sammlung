@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Kartoffel-Chili-Pfanne",
+  "author": {
+    "@type": "Person",
+    "name": "Chefkoch / mareikaeferchen"
+  },
+  "description": "mit Bohnen, Mais und Paprika – vegan, scharf und schnell",
+  "recipeYield": "2 Portionen",
+  "recipeIngredient": [
+    "300 g Kartoffeln, festkochend (geschält, in dünne Scheiben)",
+    "1 Stück Paprikaschote rot (in Stücke)",
+    "1 Stück Paprikaschote gelb (in Stücke)",
+    "2 Stück Frühlingszwiebeln (in Ringe)",
+    "Chili frisch (nach Belieben; alternativ getrocknet (Vorrat))",
+    "200 g Kidneybohnen (Dose) (abgetropft; Quelle: 200 g)",
+    "200 g Mais (Dose) (abgetropft; Quelle: 200 g)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Kartoffeln schälen, waschen, trocken tupfen und in dünne Scheiben schneiden. Sesamöl in einer grossen Pfanne erhitzen und die Kartoffeln unter mehrfachem Wenden braten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Kidneybohnen und Mais abtropfen lassen; Paprika putzen und in Stücke schneiden. Alles zu den Kartoffeln geben und weitere 5 Min. braten. Frühlingszwiebeln dazugeben. Mit Salz und Chili würzen, mit Tomatensaft ablöschen. Mit Salz und Tabasco abschmecken."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kartoffel-chili-pfanne-bohnen-mais/",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M"
+}
