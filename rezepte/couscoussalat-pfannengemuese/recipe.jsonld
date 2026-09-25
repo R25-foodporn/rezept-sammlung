@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Couscoussalat mit Pfannengemüse",
+  "author": {
+    "@type": "Person",
+    "name": "Salatschwester"
+  },
+  "description": "Vegan mit Kichererbsen – mediterran und mealprep-tauglich",
+  "recipeYield": "6 Portionen",
+  "recipeIngredient": [
+    "1 Stück Knoblauchzehe (fürs Dressing, gepresst)",
+    "3 EL Zitronensaft",
+    "1 Stück kleine Zucchini (gewürfelt)",
+    "1 Stück grössere Paprika (entkernt, gewürfelt)",
+    "1 Stück Zwiebel (fein gehackt oder in Ringe)",
+    "1 Stück Salatgurke (ggf. geschält, gewürfelt)",
+    "400 g Kichererbsen (Konserve) (abgespült und abgetropft)",
+    "4 Stängel Petersilie (frisch (oder getrocknet), fein gehackt)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Couscous nach Herstellerempfehlung zubereiten und etwas abkühlen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Dressing: Knoblauch schälen und fein pressen. Mit Olivenöl, Zitronensaft, Ketchup (oder Tomatenmark), Agavendicksaft, Paprikapulver, Salz und Pfeffer zu einem würzigen Dressing verrühren und abschmecken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Pfannengemüse: Zucchini und Paprika waschen; Paprika entkernen und würfeln, Zucchini-Enden entfernen und würfeln. Zwiebel schälen und fein hacken oder in Ringe schneiden."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "1 EL Öl in einer Pfanne erhitzen und das Gemüse max. 10 Min. bei mittlerer Hitze andünsten (nicht braten)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Gurke waschen, nach Bedarf schälen und würfeln. Kichererbsen abspülen und gut abtropfen lassen. Petersilie waschen, trockenschütteln und fein hacken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Couscous, Kichererbsen, Gurke, Pfannengemüse und Dressing in einer grossen Schüssel vermengen. Mit Petersilie toppen. Lauwarmen oder kalt geniessen; bis zum Verzehr im Kühlschrank lagern."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/couscoussalat-pfannengemuese/",
+  "prepTime": "PT25M",
+  "cookTime": "PT20M",
+  "totalTime": "PT45M"
+}

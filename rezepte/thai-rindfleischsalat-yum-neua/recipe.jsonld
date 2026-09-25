@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Thai-Rindfleischsalat (Yum Neua)",
+  "author": {
+    "@type": "Person",
+    "name": "Marion's Kitchen / Marion Grasby"
+  },
+  "description": "Scharfer Steak-Salat mit Limette, Fischsauce und Minze",
+  "recipeYield": "4 Portionen",
+  "recipeIngredient": [
+    "400 g Rinder-Ribeye-Steaks (2 × 200 g)",
+    "1 Stück kleine Zwiebel (in Spalten/Scheiben)",
+    "1 Stück Gurke (halbiert, entkernt, geschnitten)",
+    "2 Stück kleine Tomaten (in Spalten)",
+    "1 Stück grosse rote Chili (fein geschnitten)",
+    "ca. 15 g Minzblätter (½ cup / Handvoll (US-cup → metrisch umgerechnet))",
+    "ca. 25 g Frühlingszwiebeln (¼ cup geschnitten (US-cup → metrisch umgerechnet), in Ringe)",
+    "2 EL Limettensaft (fürs Dressing)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Marinade: Fischsauce, Palmzucker (oder hellbraunen Zucker) und Pfeffer in einer grossen Schüssel verrühren. Steaks dazugeben und 10 Min. marinieren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Dressing: Fischsauce, Limettensaft und Zucker verrühren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Öl in einer Pfanne bei starker Hitze erhitzen. Steaks je Seite ca. 3–4 Min. braten (medium-rare) oder nach Wunsch. Herausnehmen und 10 Min. ruhen lassen, dann möglichst dünn aufschneiden."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Zwiebel, Gurke, Tomaten, Chili, Minze, Frühlingszwiebeln und das geschnittene Fleisch in einer grossen Schüssel mischen. Etwa die Hälfte des Dressings unterheben, abschmecken und bei Bedarf mehr Dressing zugeben. Optional mit Dampfreis servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/thai-rindfleischsalat-yum-neua/",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M"
+}

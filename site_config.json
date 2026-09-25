@@ -106,6 +106,14 @@
       "frisch_count": 3
     },
     {
+      "slug": "couscoussalat-pfannengemuese",
+      "title": "Couscoussalat mit Pfannengemüse",
+      "portions": 6,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/couscoussalat-pfannengemuese/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fcouscoussalat-pfannengemuese%2F&source=web&baseQuantity=6&requestedQuantity=6",
+      "frisch_count": 8
+    },
+    {
       "slug": "franzoesische-apfeltarte",
       "title": "Französische Apfeltarte",
       "portions": 6,
@@ -144,6 +152,14 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rajma-masala/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Frajma-masala%2F&source=web&baseQuantity=6&requestedQuantity=6",
       "frisch_count": 10
+    },
+    {
+      "slug": "thai-rindfleischsalat-yum-neua",
+      "title": "Thai-Rindfleischsalat (Yum Neua)",
+      "portions": 4,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/thai-rindfleischsalat-yum-neua/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fthai-rindfleischsalat-yum-neua%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "frisch_count": 8
     }
   ]
 }
