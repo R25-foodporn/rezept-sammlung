@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Ofen-Nudeln mit Tomatensauce und Käse",
+  "author": {
+    "@type": "Person",
+    "name": "Rezepte_lernen"
+  },
+  "description": "One-Pan-Auflauf – trockene Nudeln mit Sauce und Wasser backen",
+  "recipeYield": "2 Portionen",
+  "recipeIngredient": [
+    "0.5 Stück Zwiebel (geschnitten)",
+    "3 Stück Knoblauchzehen (zerdrückt)",
+    "Mozzarella (nach Belieben; zum Überbacken)",
+    "Parmesan, gerieben (nach Belieben; zum Überbacken)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Ofen auf 200 °C vorheizen. 250 g trockene Nudeln in eine Auflaufform geben. ½ Zwiebel geschnitten, 3 zerdrückte Knoblauchzehen und 3 Tassen Tomatensauce dazugeben; mit einem Löffel vermengen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "1 TL Salz, ½ TL schwarzen Pfeffer und 1 TL Oregano untermischen. Heisses Wasser zugiessen, bis der Inhalt gerade bedeckt ist."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Bei 200 °C ca. 30 Min. backen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Mozzarella und geriebenen Parmesan nach Belieben darübergeben, etwas Oregano darüberstreuen. Nochmals 10 Min. bei 200 °C backen, bis der Käse geschmolzen und goldbraun ist."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Heiss servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/ofen-nudeln-tomatensauce-kaese/",
+  "prepTime": "PT10M",
+  "cookTime": "PT40M",
+  "totalTime": "PT50M"
+}
