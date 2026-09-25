@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Jamaikanischer Ital-Eintopf",
+  "author": {
+    "@type": "Person",
+    "name": "Healthier Steps"
+  },
+  "description": "Ital Stew – Kartoffeln und Kidneybohnen in Kokosmilch, vegan",
+  "recipeYield": "4 Portionen",
+  "recipeIngredient": [
+    "1 Stück mittelgrosse Zwiebel (gehackt)",
+    "5 Stück Knoblauchzehen (gehackt)",
+    "2 Stück Frühlingszwiebeln (in dünne Ringe)",
+    "2 Stangen Sellerie (gehackt)",
+    "2 Stück mittelgrosse Kartoffeln (geschält, gewürfelt; Quelle: 2 medium; ca. 350–400 g (geschätzt))",
+    "2 Stück mittelgrosse Karotten (in Scheiben)",
+    "0.5 Stück Weisskohl (mittelgross, gehackt)",
+    "ca. 255 g Kidneybohnen, gekocht (Quelle: 1½ cups cooked; 1 cup ≈ 170 g – oder Dose Kidneybohnen, abgetropft)",
+    "1 Stück Scotch-Bonnet- oder Habanero-Peperoni (ganz, nicht anstechen; oder eine Prise Cayenne)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Öl in grossem Topf mittelhoch erhitzen. Zwiebel ca. 3 Min. weich dünsten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Knoblauch, Frühlingszwiebel, Sellerie, Thymian, Italian Seasoning, Piment und Lorbeer 1 Min. mitrösten bis duftend."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Liquid Aminos/Sojasauce, Tomatenmark, Kartoffeln, Karotten und Kohl einrühren, ca. 1 Min. mitbraten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Kokosmilch, Wasser, Kidneybohnen und ganze Scotch Bonnet zugeben (optional Soy Curls laut Quelle). Aufkochen, dann köcheln."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Ca. 30 Min. köcheln bis Eintopf dick und Gemüse gar. Mit Salz abschmecken. Peperoni vor dem Servieren entfernen."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/jamaikanischer-ital-eintopf/",
+  "prepTime": "PT20M",
+  "cookTime": "PT35M",
+  "totalTime": "PT55M"
+}

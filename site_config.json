@@ -146,6 +146,15 @@
       "frisch_count": 6
     },
     {
+      "slug": "jamaikanischer-ital-eintopf",
+      "title": "Jamaikanischer Ital-Eintopf",
+      "portions": 4,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/jamaikanischer-ital-eintopf/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fjamaikanischer-ital-eintopf%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "source_json": "jamaikanischer-ital-eintopf.json",
+      "frisch_count": 9
+    },
+    {
       "slug": "kartoffel-kaese-wrap",
       "title": "Kartoffel-Käse-Wrap",
       "portions": 2,
