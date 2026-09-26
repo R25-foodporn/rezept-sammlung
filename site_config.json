@@ -173,6 +173,15 @@
       "frisch_count": 2
     },
     {
+      "slug": "keto-kaesekuchen-happen-airfryer",
+      "title": "Knusprige Keto-Käsekuchen-Happen",
+      "portions": 12,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/keto-kaesekuchen-happen-airfryer/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fketo-kaesekuchen-happen-airfryer%2F&source=web&baseQuantity=12&requestedQuantity=12",
+      "source_json": "recipes/keto-kaesekuchen-happen-airfryer.json",
+      "frisch_count": 3
+    },
+    {
       "slug": "knusprige-zucchini-ringe",
       "title": "Knusprige Zucchini-Ringe",
       "portions": 2,

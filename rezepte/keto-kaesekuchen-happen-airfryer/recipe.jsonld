@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Knusprige Keto-Käsekuchen-Happen",
+  "author": {
+    "@type": "Person",
+    "name": "Cooking With Dave"
+  },
+  "description": "Airfryer – aussen knusprig, innen cremig, mit optionaler Karamellsauce",
+  "recipeYield": "12 Portionen",
+  "recipeIngredient": [
+    "225 g Frischkäse (weich; ≈ 8 oz)",
+    "60 ml Sauerrahm (≈ ¼ cup)",
+    "60 ml Vollrahm (für die Karamellsauce; ≈ ¼ cup heavy cream)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Füllung: 225 g weichen Frischkäse, 60 ml Sauerrahm, 30 g weiche Butter, 4 EL Puder-Allulose, 1 EL Vanilleextrakt und 1 EL Kokosmehl glatt rühren. Happen portionieren, zu Kugeln formen, auf Backpapier legen. 1 Std. einfrieren (fest, nicht steinhart)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Panade: 1,2 dl zerbröselte Schweineschwarten (oder Mandelmehl), 30 g geschmolzene Butter, optional 1 EL Süssungsmittel und 1 TL Zimt mischen. Gefrorene Happen darin wälzen, leicht andrücken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Airfryer auf 160 °C vorheizen (Quelle: 325 °F / 163 °C). Happen in einer Lage ohne Berührung 6–8 Min. frittieren, nach der Hälfte schütteln, bis golden und knusprig. 2 Min. abkühlen lassen (werden fester)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Optional Sauce: 60 g Butter bei mittel-niedriger Hitze goldbraun schmelzen. 4 EL Allulose einrühren, 1–2 Min. blubbern lassen. 60 ml Vollrahm langsam unter ständigem Rühren zugeben. ½ TL Karamell- oder Vanilleextrakt und 1 Prise Meersalz; 2–3 Min. eindicken. Über die Happen träufeln oder als Dip servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/keto-kaesekuchen-happen-airfryer/",
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
+  "totalTime": "PT90M"
+}
