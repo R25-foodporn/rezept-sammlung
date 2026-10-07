@@ -200,6 +200,15 @@
       "frisch_count": 2
     },
     {
+      "slug": "kartoffel-spinat-quiche-ohne-teig",
+      "title": "Kartoffel-Spinat-Quiche ohne Teig",
+      "portions": 1,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kartoffel-spinat-quiche-ohne-teig/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkartoffel-spinat-quiche-ohne-teig%2F&source=web&baseQuantity=1&requestedQuantity=1",
+      "source_json": "recipes/kartoffel-spinat-quiche-ohne-teig.json",
+      "frisch_count": 5
+    },
+    {
       "slug": "keto-kaesekuchen-happen-airfryer",
       "title": "Knusprige Keto-Käsekuchen-Happen",
       "portions": 12,
