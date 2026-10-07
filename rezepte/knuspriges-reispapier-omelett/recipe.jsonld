@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Knuspriges Reispapier-Omelett",
+  "author": {
+    "@type": "Person",
+    "name": "Aym Eats"
+  },
+  "description": "Reispapier mit Ei, Viertel für Viertel gefüllt mit Spinat und Käse, Tomate, Avocado-Limette und Halloumi",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "2 Stück Eier (verquirlt)",
+    "Spinatblätter (Menge unklar)",
+    "Käsescheiben (Sorte und Menge unklar)",
+    "Tomate (in Scheiben; Menge unklar)",
+    "0.5 Stück Avocado (zerdrückt)",
+    "Limettensaft (ein Spritzer)",
+    "Halloumi (gebraten; Menge unklar)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Ein Reispapierblatt leicht anfeuchten und direkt in eine heisse Pfanne mit wenig Öl legen (Hitze unklar)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Sofort 2 Eier verquirlen, über das Reispapier giessen und zu einer Omelettschicht verteilen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Sobald das Ei zu stocken beginnt, mit dem Pizzaschneider einmal vom Rand bis zur Mitte schneiden – nicht weiter."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Omelett gedanklich in vier Viertel teilen: Viertel 1 mit Spinat und Käse, Viertel 2 mit Tomatenscheiben, Viertel 3 mit zerdrückter Avocado und etwas Limettensaft, Viertel 4 mit gebratenem Halloumi belegen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Beim ersten Viertel beginnend das Omelett Viertel für Viertel übereinanderklappen, bis alle Füllungen gestapelt sind."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Noch kurz knusprig braten (Zeit unklar), aus der Pfanne nehmen und geniessen."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/knuspriges-reispapier-omelett/"
+}
