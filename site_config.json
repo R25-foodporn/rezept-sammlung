@@ -164,6 +164,15 @@
       "frisch_count": 6
     },
     {
+      "slug": "haehnchen-kartoffel-pfanne",
+      "title": "Hähnchen-Kartoffel-Pfanne",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/haehnchen-kartoffel-pfanne/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fhaehnchen-kartoffel-pfanne%2F&source=web",
+      "source_json": "recipes/haehnchen-kartoffel-pfanne.json",
+      "frisch_count": 5
+    },
+    {
       "slug": "jamaikanischer-ital-eintopf",
       "title": "Jamaikanischer Ital-Eintopf",
       "portions": 4,

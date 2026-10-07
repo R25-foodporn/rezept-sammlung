@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Hähnchen-Kartoffel-Pfanne",
+  "author": {
+    "@type": "Person",
+    "name": "Rezepte_lernen"
+  },
+  "description": "Gewürzte Hähnchenwürfel und vorgekochte Kartoffeln aus einer Pfanne – mit Butter, Knoblauch und Petersilie",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "2 Stück Hähnchenbrüste (in Würfel geschnitten; Grösse unklar)",
+    "4 Stück Kartoffeln (Grösse und Sorte unklar; im Video geschält)",
+    "3 EL Butter (2 EL zum Braten des Hähnchens, 1 EL zum Schluss)",
+    "3 Stück Knoblauchzehen (gehackt)",
+    "Petersilie (Menge unklar – laut Quelle nach Geschmack)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Hähnchenbrüste zuerst in Streifen, dann in Würfel schneiden."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "In einer Schüssel mit 1 TL Salz, ½ TL schwarzem Pfeffer, 1 TL Paprikapulver und Olivenöl nach Geschmack gut vermischen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Olivenöl in einer Pfanne erhitzen (Menge und Hitze unklar). Hähnchen und 2 EL Butter dazugeben und unter Rühren goldbraun braten (Bratzeit unklar). Herausnehmen und beiseitestellen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "4 Kartoffeln in dicke Scheiben, dann in kleinere Stücke schneiden. In einem Topf mit heissem Wasser bedecken und 5 Min. kochen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Kartoffeln herausnehmen, in die Pfanne geben, in der das Hähnchen war, und unter Rühren goldbraun braten (Bratzeit unklar)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "1 EL Butter und 3 gehackte Knoblauchzehen dazugeben und mischen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Hähnchen zurück in die Pfanne geben, mit den Kartoffeln vermengen, Petersilie nach Geschmack darüberstreuen und nochmals mischen."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/haehnchen-kartoffel-pfanne/"
+}
