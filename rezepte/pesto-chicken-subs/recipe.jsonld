@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Pesto-Chicken-Subs",
+  "author": {
+    "@type": "Person",
+    "name": "FeastRecipes"
+  },
+  "description": "12 Baguette-Subs zum Vorkochen – Hähnchen, Pesto mit wenig Öl, Swiss Cheese und Hot Honey; Mengen unklar",
+  "recipeYield": "12 Portionen",
+  "recipeIngredient": [
+    "Baguettes (Menge unklar; ergeben laut Quelle 12 Subs)",
+    "Hähnchen (Teilstück unklar, auf den Bildern vermutlich Oberschenkel ohne Knochen – unverifiziert; Menge unklar)",
+    "Basilikum (für das Pesto; Menge unklar)",
+    "Knoblauch (für das Pesto; Menge unklar)",
+    "Swiss Cheese (Emmentaler-Typ, ultradünne Scheiben; Menge unklar)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Hähnchen von Fett befreien, würzen, garen und klein schneiden. Garmethode, Hitze und Zeit: unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Pesto aus Basilikum, Knoblauch und weiteren Zutaten (unklar) mit möglichst wenig Öl im Mixer herstellen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Baguettes aufschneiden, aushöhlen und mit Pesto bestreichen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Hähnchen einfüllen, ultradünne Käsescheiben darauflegen und überbacken, bis der Käse geschmolzen ist (Gerät, Temperatur und Zeit unklar). Mit Hot Honey verfeinern."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Für die Woche vorbereiten – Lagerung und Aufwärmen werden im Video nicht erklärt (unklar)."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/pesto-chicken-subs/",
+  "totalTime": "PT60M"
+}
