@@ -110,6 +110,15 @@
       "frisch_count": 3
     },
     {
+      "slug": "avocado-toast-chili-crisp-eier",
+      "title": "Avocado-Toast mit Chili-Crisp-Eiern",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/avocado-toast-chili-crisp-eier/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Favocado-toast-chili-crisp-eier%2F&source=web",
+      "source_json": "recipes/avocado-toast-chili-crisp-eier.json",
+      "frisch_count": 4
+    },
+    {
       "slug": "bounty-riegel-4-zutaten",
       "title": "Bounty-Riegel aus 4 Zutaten",
       "portions": 12,

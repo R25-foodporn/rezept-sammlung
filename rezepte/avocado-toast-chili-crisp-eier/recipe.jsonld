@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Avocado-Toast mit Chili-Crisp-Eiern",
+  "author": {
+    "@type": "Person",
+    "name": "mach.doch.einfach"
+  },
+  "description": "Sauerteig-Toast mit Avocado, wachsweichen Eiern, getrockneten Tomaten, Chili-Crisp und Kewpie-Mayo",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "1 Scheibe Sauerteigbrot (getoastet)",
+    "0.5 Stück Avocado",
+    "2 Stück Eier (Grösse M, Zimmertemperatur)",
+    "Schnittlauch (zum Toppen; Menge unklar)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Eier ins kochende Wasser geben und 6 Minuten kochen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Danach direkt ins Eiswasser geben, so lassen sie sich leicht pellen. Eier pellen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Eier mit getrockneten Tomaten, Chili-Crisp-Öl und Mayo in einer Schüssel grob zerdrücken und mit Salz und Pfeffer abschmecken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Die Avocado auf dem getoasteten Brot zerdrücken und den Eier-Mix obendrauf geben."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Mit Schnittlauch und Chiliflocken toppen."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/avocado-toast-chili-crisp-eier/"
+}
