@@ -173,6 +173,15 @@
       "frisch_count": 5
     },
     {
+      "slug": "honig-chipotle-limetten-pulled-chicken",
+      "title": "Honig-Chipotle-Limetten-Pulled-Chicken",
+      "portions": 10,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/honig-chipotle-limetten-pulled-chicken/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fhonig-chipotle-limetten-pulled-chicken%2F&source=web&baseQuantity=10&requestedQuantity=10",
+      "source_json": "recipes/honig-chipotle-limetten-pulled-chicken.json",
+      "frisch_count": 6
+    },
+    {
       "slug": "jamaikanischer-ital-eintopf",
       "title": "Jamaikanischer Ital-Eintopf",
       "portions": 4,
