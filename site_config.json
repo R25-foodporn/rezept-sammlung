@@ -173,6 +173,15 @@
       "frisch_count": 6
     },
     {
+      "slug": "glutenfreies-low-carb-toastbrot",
+      "title": "Glutenfreies Low-Carb-Toastbrot",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/glutenfreies-low-carb-toastbrot/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fglutenfreies-low-carb-toastbrot%2F&source=web",
+      "source_json": "recipes/glutenfreies-low-carb-toastbrot.json",
+      "frisch_count": 2
+    },
+    {
       "slug": "haehnchen-kartoffel-pfanne",
       "title": "Hähnchen-Kartoffel-Pfanne",
       "portions": "unklar",
