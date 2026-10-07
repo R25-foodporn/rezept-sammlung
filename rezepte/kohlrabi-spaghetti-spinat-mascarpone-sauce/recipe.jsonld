@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Kohlrabi-Spaghetti mit grüner Spinat-Mascarpone-Sauce",
+  "author": {
+    "@type": "Person",
+    "name": "FOODBOOM"
+  },
+  "description": "Gemüsespaghetti aus dem Spiralschneider, Sauce mit Kohlrabiblättern und Parmesan",
+  "recipeYield": "2 Portionen",
+  "recipeIngredient": [
+    "2 Stück Kohlrabi (mit Blättern)",
+    "120 g Babyspinat",
+    "80 g Mascarpone",
+    "40 g Parmesan",
+    "2 Stück Knoblauchzehen"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Kohlrabiblätter abschneiden, Deckel und Boden abschneiden und den Kohlrabi mit dem Sparschäler schälen (wenig Abfall, er bleibt rund). Blattgrün vom Stiel schneiden und waschen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Kohlrabi mit dem Spiralschneider zu Spaghetti schneiden; Reste naschen oder klein schneiden. Kohlrabiblätter in feine Streifen schneiden."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Kohlrabi-Spaghetti mit Wasser (Menge unklar) in einen Topf geben, Deckel drauf und aufkochen. Sobald es kocht, Salz und Blattstreifen dazugeben, vermengen, Deckel drauf und 2 Min. köcheln."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Abgiessen, dabei das Kochwasser auffangen und zurück in den Topf geben (Menge unklar). Ob die Blattstreifen mit den Spaghetti abgegossen oder mitgemixt werden: unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Knoblauch, Muskat, Mascarpone und Babyspinat (im Video «eine gute Handvoll», laut Zutatenliste 120 g) dazugeben, Deckel drauf und 1 Min. köcheln."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Alles im Mixer pürieren, bis die Sauce leuchtend grün ist."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Sauce zurück in den Topf, Kohlrabi-Spaghetti obendrauf und mit reichlich Parmesan binden."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kohlrabi-spaghetti-spinat-mascarpone-sauce/"
+}

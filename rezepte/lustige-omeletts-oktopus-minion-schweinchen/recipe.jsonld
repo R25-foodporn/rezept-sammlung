@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Lustige Omeletts: Würstchen-Oktopus, Minion, Schweinchen",
+  "author": {
+    "@type": "Person",
+    "name": "Bruno Bianchet"
+  },
+  "description": "Drei Omelett-Motive für Kinder – Zutaten nur aus den Videobildern abgeleitet, Mengen unklar",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "Eier (verquirlt; Menge unklar – aus den Videobildern abgeleitet, nicht verifiziert)",
+    "Würstchen (z. B. Wienerli) (für den Oktopus; Menge unklar (im Video 1 Würstchen pro Oktopus) – aus den Videobildern abgeleitet, nicht verifiziert)",
+    "Zwiebel (für 2 dicke Zwiebelringe (Minion-Augen); Menge unklar – aus den Videobildern abgeleitet, nicht verifiziert)",
+    "rosa Wurstscheiben (Fleischwurst/Mortadella o. ä.) (für Schweinchen-Ohren und -Nase; Menge unklar (im Video 3 Scheiben) – aus den Videobildern abgeleitet, nicht verifiziert)",
+    "schwarze Oliven (für Pupillen, Augen und Minion-Mund; Menge unklar – aus den Videobildern abgeleitet, nicht verifiziert)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Öl in einer beschichteten Pfanne erhitzen (Menge und Hitze unklar)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Oktopus: Würstchen der Länge nach in «Tentakel» einschneiden und im Öl anbraten, bis sich die Arme einrollen (Zeit unklar); Augen eingeritzt bzw. als Punkte (nicht verifiziert). Verquirlte Eier dazugiessen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Minion: Zwei dicke Zwiebelringe in die Pfanne legen und mit heller Flüssigkeit füllen (vermutlich Eiweiss, nicht verifiziert). Verquirltes Ei rundherum giessen, schwarze Punkte (evtl. Olive) als Pupillen und einen dünnen dunklen Streifen als Mund setzen. Auf dem Teller kommen oben «Haare» dazu (Material unklar)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Schweinchen: Rosa Wurstscheiben als zwei halbrunde Ohren und eine runde Nase mit zwei Nasenlöchern auslegen, mit verquirltem Ei übergiessen und zwei schwarze Punkte als Augen setzen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Jeweils stocken lassen (Hitze und Zeit unklar) und auf einen Teller stürzen, sodass das Motiv oben liegt."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/lustige-omeletts-oktopus-minion-schweinchen/"
+}

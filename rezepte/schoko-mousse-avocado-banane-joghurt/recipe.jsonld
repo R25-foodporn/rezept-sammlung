@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Schoko-Mousse mit Avocado, Banane und Joghurt",
+  "author": {
+    "@type": "Person",
+    "name": "Loretta Sweets"
+  },
+  "description": "Ohne raffinierten Zucker – gesüsst mit Banane und Honig",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "0.5 Stück Banane",
+    "1 Stück Avocado",
+    "240 ml Griechischer Joghurt (≈ 1 Cup laut Video (ca. 240 ml bzw. ca. 250 g); Umrechnung ungefähr, nicht aus dem Video)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Zubereitung: unklar – im Video nicht gezeigt. Annahme (nicht verifiziert): vermutlich alle Zutaten fein pürieren und eventuell kühlen (Kühlzeit unklar)."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/schoko-mousse-avocado-banane-joghurt/"
+}

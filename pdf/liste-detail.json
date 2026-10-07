@@ -1,5 +1,12 @@
 [
   {
+    "slug": "bounty-riegel-4-zutaten",
+    "title": "Bounty-Riegel aus 4 Zutaten",
+    "pdf": "https://r25-foodporn.github.io/rezept-sammlung/pdf/bounty-riegel-4-zutaten.pdf",
+    "page": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/bounty-riegel-4-zutaten/",
+    "updated": "2026-10-07T12:16:42Z"
+  },
+  {
     "slug": "carnivore-brot",
     "title": "Carnivore-Brot",
     "pdf": "https://r25-foodporn.github.io/rezept-sammlung/pdf/carnivore-brot.pdf",
@@ -19,6 +26,13 @@
     "pdf": "https://r25-foodporn.github.io/rezept-sammlung/pdf/couscoussalat-pfannengemuese.pdf",
     "page": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/couscoussalat-pfannengemuese/",
     "updated": "2026-09-25T11:41:08Z"
+  },
+  {
+    "slug": "dirty-cabbage-airfryer",
+    "title": "Dirty Cabbage aus dem Airfryer",
+    "pdf": "https://r25-foodporn.github.io/rezept-sammlung/pdf/dirty-cabbage-airfryer.pdf",
+    "page": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/dirty-cabbage-airfryer/",
+    "updated": "2026-10-07T12:20:47Z"
   },
   {
     "slug": "einfache-linsensuppe",
@@ -84,6 +98,13 @@
     "updated": "2026-09-25T19:40:53Z"
   },
   {
+    "slug": "kohlrabi-spaghetti-spinat-mascarpone-sauce",
+    "title": "Kohlrabi-Spaghetti mit grüner Spinat-Mascarpone-Sauce",
+    "pdf": "https://r25-foodporn.github.io/rezept-sammlung/pdf/kohlrabi-spaghetti-spinat-mascarpone-sauce.pdf",
+    "page": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kohlrabi-spaghetti-spinat-mascarpone-sauce/",
+    "updated": "2026-10-07T12:20:44Z"
+  },
+  {
     "slug": "linsen-harissa-tomaten-sauce",
     "title": "Linsen mit Harissa-Tomaten-Sauce",
     "pdf": "https://r25-foodporn.github.io/rezept-sammlung/pdf/linsen-harissa-tomaten-sauce.pdf",
@@ -96,6 +117,13 @@
     "pdf": "https://r25-foodporn.github.io/rezept-sammlung/pdf/low-carb-kaesekuchen.pdf",
     "page": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/low-carb-kaesekuchen/",
     "updated": "2026-09-25T11:44:36Z"
+  },
+  {
+    "slug": "lustige-omeletts-oktopus-minion-schweinchen",
+    "title": "Lustige Omeletts: Würstchen-Oktopus, Minion, Schweinchen",
+    "pdf": "https://r25-foodporn.github.io/rezept-sammlung/pdf/lustige-omeletts-oktopus-minion-schweinchen.pdf",
+    "page": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/lustige-omeletts-oktopus-minion-schweinchen/",
+    "updated": "2026-10-07T12:20:01Z"
   },
   {
     "slug": "norddeutscher-kartoffelsalat",
@@ -117,6 +145,13 @@
     "pdf": "https://r25-foodporn.github.io/rezept-sammlung/pdf/ozempic-salat.pdf",
     "page": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/ozempic-salat/",
     "updated": "2026-09-25T11:46:15Z"
+  },
+  {
+    "slug": "pekannuss-tahini-dattel-schnitten",
+    "title": "Pekannuss-Tahini-Dattel-Schnitten",
+    "pdf": "https://r25-foodporn.github.io/rezept-sammlung/pdf/pekannuss-tahini-dattel-schnitten.pdf",
+    "page": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/pekannuss-tahini-dattel-schnitten/",
+    "updated": "2026-10-07T12:19:51Z"
   },
   {
     "slug": "pepperoni-pizza-caesar-wrap",
@@ -145,6 +180,13 @@
     "pdf": "https://r25-foodporn.github.io/rezept-sammlung/pdf/rote-linsen-mealprep-drei-gerichte.pdf",
     "page": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rote-linsen-mealprep-drei-gerichte/",
     "updated": "2026-09-25T20:47:06Z"
+  },
+  {
+    "slug": "schoko-mousse-avocado-banane-joghurt",
+    "title": "Schoko-Mousse mit Avocado, Banane und Joghurt",
+    "pdf": "https://r25-foodporn.github.io/rezept-sammlung/pdf/schoko-mousse-avocado-banane-joghurt.pdf",
+    "page": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/schoko-mousse-avocado-banane-joghurt/",
+    "updated": "2026-10-07T12:19:58Z"
   },
   {
     "slug": "schwaebischer-kartoffelsalat",

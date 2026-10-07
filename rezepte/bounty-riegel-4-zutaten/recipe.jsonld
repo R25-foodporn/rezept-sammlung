@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Bounty-Riegel aus 4 Zutaten",
+  "author": {
+    "@type": "Person",
+    "name": "Bored of Lunch"
+  },
+  "description": "Kokos-Joghurt-Füllung im Schokoladenmantel – ohne Backen, aus dem Gefrierfach",
+  "recipeYield": "12 Portionen",
+  "recipeIngredient": [
+    "400 ml Griechischer Joghurt 0 % Fett (Quelle: 400 ml 0% fat Greek yogurt)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Kokosraspeln, Griechischen Joghurt und (optional) Honig gut vermischen, bis alles vollständig verbunden ist."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Masse in eine mit Backpapier ausgelegte Form drücken und mindestens 2 Std. einfrieren (über Nacht ist noch besser). Laut Video kann man die Masse vor dem Einfrieren auch zu Kugeln rollen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Sobald die Masse fest ist, in Riegel schneiden. Jeden Riegel in die geschmolzene dunkle Schokolade tauchen oder damit überziehen und auf ein frisch ausgelegtes Blech legen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "10 Min. im Kühlschrank oder Gefrierfach kühlen, bis die Schokolade fest ist – dann geniessen."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/bounty-riegel-4-zutaten/"
+}

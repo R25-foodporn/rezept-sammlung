@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Pekannuss-Tahini-Dattel-Schnitten",
+  "author": {
+    "@type": "Person",
+    "name": "Claire Sharryn Roberto"
+  },
+  "description": "Dattelboden, geröstete Pekannüsse, Tahini, Orangenblüten-Butter und 85 % Schokolade",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "14 Stück Medjool-Datteln (entsteint; Quelle: Bio)",
+    "55 g Butter (≈ ¼ Cup laut Quelle (Bio-A2-Butter); Umrechnung ungefähr)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Ofen auf 180 °C vorheizen (Heizart unklar). Pekannüsse auf einem mit Backpapier belegten Blech 10 Min. rösten, nach der Hälfte wenden. Gut aufpassen – sie verbrennen schnell."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Datteln in eine mit Backpapier ausgelegte Form legen (Grösse unklar) und fest zu einem gleichmässigen Boden pressen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Geröstete Pekannüsse darüberstreuen und leicht andrücken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Tahini darübergiessen und gleichmässig verstreichen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Butter sanft schmelzen, Orangenblütenwasser einrühren und langsam über die Tahini-Schicht giessen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Geschmolzene Schokolade darübergiessen, leicht marmorieren und mit Flockensalz bestreuen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "1 Std. im Kühlschrank fest werden lassen, dann in Quadrate schneiden."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/pekannuss-tahini-dattel-schnitten/",
+  "cookTime": "PT10M"
+}

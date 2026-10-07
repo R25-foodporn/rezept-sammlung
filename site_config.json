@@ -110,6 +110,15 @@
       "frisch_count": 3
     },
     {
+      "slug": "bounty-riegel-4-zutaten",
+      "title": "Bounty-Riegel aus 4 Zutaten",
+      "portions": 12,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/bounty-riegel-4-zutaten/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fbounty-riegel-4-zutaten%2F&source=web&baseQuantity=12&requestedQuantity=12",
+      "source_json": "recipes/bounty-riegel-4-zutaten.json",
+      "frisch_count": 1
+    },
+    {
       "slug": "carnivore-brot",
       "title": "Carnivore-Brot",
       "portions": 10,
@@ -126,6 +135,15 @@
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fcouscoussalat-pfannengemuese%2F&source=web&baseQuantity=6&requestedQuantity=6",
       "source_json": "recipes/couscoussalat-pfannengemuese.json",
       "frisch_count": 8
+    },
+    {
+      "slug": "dirty-cabbage-airfryer",
+      "title": "Dirty Cabbage aus dem Airfryer",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/dirty-cabbage-airfryer/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fdirty-cabbage-airfryer%2F&source=web",
+      "source_json": "recipes/dirty-cabbage-airfryer.json",
+      "frisch_count": 5
     },
     {
       "slug": "franzoesische-apfeltarte",
@@ -191,6 +209,24 @@
       "frisch_count": 6
     },
     {
+      "slug": "kohlrabi-spaghetti-spinat-mascarpone-sauce",
+      "title": "Kohlrabi-Spaghetti mit grüner Spinat-Mascarpone-Sauce",
+      "portions": 2,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kohlrabi-spaghetti-spinat-mascarpone-sauce/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkohlrabi-spaghetti-spinat-mascarpone-sauce%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "source_json": "recipes/kohlrabi-spaghetti-spinat-mascarpone-sauce.json",
+      "frisch_count": 5
+    },
+    {
+      "slug": "lustige-omeletts-oktopus-minion-schweinchen",
+      "title": "Lustige Omeletts: Würstchen-Oktopus, Minion, Schweinchen",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/lustige-omeletts-oktopus-minion-schweinchen/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Flustige-omeletts-oktopus-minion-schweinchen%2F&source=web",
+      "source_json": "recipes/lustige-omeletts-oktopus-minion-schweinchen.json",
+      "frisch_count": 5
+    },
+    {
       "slug": "ofen-nudeln-tomatensauce-kaese",
       "title": "Ofen-Nudeln mit Tomatensauce und Käse",
       "portions": 2,
@@ -198,6 +234,15 @@
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fofen-nudeln-tomatensauce-kaese%2F&source=web&baseQuantity=2&requestedQuantity=2",
       "source_json": "recipes/ofen-nudeln-tomatensauce-kaese.json",
       "frisch_count": 4
+    },
+    {
+      "slug": "pekannuss-tahini-dattel-schnitten",
+      "title": "Pekannuss-Tahini-Dattel-Schnitten",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/pekannuss-tahini-dattel-schnitten/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fpekannuss-tahini-dattel-schnitten%2F&source=web",
+      "source_json": "recipes/pekannuss-tahini-dattel-schnitten.json",
+      "frisch_count": 2
     },
     {
       "slug": "protein-bolognese-fuer-kinder",
@@ -225,6 +270,15 @@
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Frote-linsen-mealprep-drei-gerichte%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/rote-linsen-mealprep-drei-gerichte.json",
       "frisch_count": 10
+    },
+    {
+      "slug": "schoko-mousse-avocado-banane-joghurt",
+      "title": "Schoko-Mousse mit Avocado, Banane und Joghurt",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/schoko-mousse-avocado-banane-joghurt/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fschoko-mousse-avocado-banane-joghurt%2F&source=web",
+      "source_json": "recipes/schoko-mousse-avocado-banane-joghurt.json",
+      "frisch_count": 3
     },
     {
       "slug": "thai-rindfleischsalat-yum-neua",
