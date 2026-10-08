@@ -155,6 +155,15 @@
       "frisch_count": 5
     },
     {
+      "slug": "erdnuss-nudeln",
+      "title": "Erdnuss-Nudeln",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/erdnuss-nudeln/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Ferdnuss-nudeln%2F&source=web",
+      "source_json": "recipes/erdnuss-nudeln.json",
+      "frisch_count": 2
+    },
+    {
       "slug": "franzoesische-apfeltarte",
       "title": "Französische Apfeltarte",
       "portions": 6,

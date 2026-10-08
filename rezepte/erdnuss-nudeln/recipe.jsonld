@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Erdnuss-Nudeln",
+  "author": {
+    "@type": "Person",
+    "name": "howiener"
+  },
+  "description": "Sauce aus Erdnussbutter, Chiliöl, Sojasauce und Zitrone, mit Nudeln vermengt",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "Knoblauch (gehackt; Menge unklar, der Creator würzt nach Gefühl)",
+    "Zitrone (für frischen Zitronensaft; Menge unklar, der Creator würzt nach Gefühl)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Nudeln kochen. Kochzeit unklar, das Kochen wird im Video nicht gezeigt."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Knoblauch, Erdnussbutter, gehackte Erdnüsse, Chiliöl, Sojasauce, Zitronensaft und Sesam in eine grosse Pfanne geben. Im Original wird alles auf einem Teller angerührt; die Pfanne steht im Video auf der Arbeitsfläche und wird nicht erhitzt."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Heisses Wasser dazugeben und alles glatt rühren. Mengen unklar, der Creator würzt nach Gefühl."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Die gekochten Nudeln dazugeben und gründlich mit der Sauce vermengen."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/erdnuss-nudeln/"
+}
