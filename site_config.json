@@ -254,6 +254,15 @@
       "frisch_count": 3
     },
     {
+      "slug": "knusprige-pommes-ohne-fritteuse",
+      "title": "Knusprige Pommes ohne Fritteuse",
+      "portions": 2,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/knusprige-pommes-ohne-fritteuse/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fknusprige-pommes-ohne-fritteuse%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "source_json": "recipes/knusprige-pommes-ohne-fritteuse.json",
+      "frisch_count": 1
+    },
+    {
       "slug": "knusprige-zucchini-ringe",
       "title": "Knusprige Zucchini-Ringe",
       "portions": 2,
