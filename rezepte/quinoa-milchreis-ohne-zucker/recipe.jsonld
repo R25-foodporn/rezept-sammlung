@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Quinoa-Milchreis ohne Zucker",
+  "author": {
+    "@type": "Person",
+    "name": "Frank's Fit Kitchen"
+  },
+  "description": "In Dattel-Nussmilch mit Vanille, Ingwer und Kardamom, mit Joghurt cremig",
+  "recipeYield": "2 Portionen",
+  "recipeIngredient": [
+    "Ingwer (etwas, laut Beschreibung fein gerieben, im Video in Scheiben mitgekocht; Menge unklar)",
+    "Griechischer Joghurt (zum Unterrühren; Menge unklar)",
+    "Beeren (frisch oder TK, zum Toppen; Menge unklar)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Nussmilch: Wasser, Nussmus, Datteln und eine Prise Salz im Mixer glatt pürieren. Ergibt ca. 1 l; der Rest lässt sich abfüllen. Alternativ Kuhmilch nehmen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Quinoa gründlich abspülen, in einen Topf geben und 500 ml Nussmilch dazugiessen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Ingwer, Vanillemark samt Schote, Kardamom und etwas Zimt dazugeben. Einmal aufkochen, dabei aufpassen, dass nichts überkocht."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Hitze reduzieren und zugedeckt köcheln lassen, bis der Quinoa gar ist, ca. 15–20 Min., laut Frank geschätzt. Wer es süsser mag, mit etwas Honig oder Yaconsirup nachsüssen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Griechischen Joghurt unterrühren, bis es cremig ist. Vegan mit Kokosjoghurt, alternativ geht auch Quark."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "In tiefen Tellern anrichten, mit Zimt bestreuen und mit Beeren und gehackten Pistazien toppen; nach Wunsch etwas Minze als Deko. Statt Beeren passen auch Äpfel, Birnen oder Quitten."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/quinoa-milchreis-ohne-zucker/"
+}

@@ -344,6 +344,15 @@
       "frisch_count": 6
     },
     {
+      "slug": "quinoa-milchreis-ohne-zucker",
+      "title": "Quinoa-Milchreis ohne Zucker",
+      "portions": 2,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/quinoa-milchreis-ohne-zucker/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fquinoa-milchreis-ohne-zucker%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "source_json": "recipes/quinoa-milchreis-ohne-zucker.json",
+      "frisch_count": 3
+    },
+    {
       "slug": "rajma-masala",
       "title": "Rajma Masala",
       "portions": 6,
