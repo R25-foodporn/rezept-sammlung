@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Proteinbrot ohne Mehl",
+  "author": {
+    "@type": "Person",
+    "name": "wissensweb"
+  },
+  "description": "Aus gekochten Kartoffeln, Magerquark, Eiern und Schnittlauch gebacken",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "Kartoffeln, gekocht (im Video geschält; Menge unklar)",
+    "Magerquark (Menge unklar)",
+    "3 Stück Eier",
+    "Schnittlauch (geschnitten; Menge unklar)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Backofen auf 180 °C stellen. Heizart unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Gekochte Kartoffeln im Mixer cremig pürieren. Kochzeit der Kartoffeln unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Magerquark, Eier, Salz, Backpulver und Schnittlauch dazugeben und nur kurz mixen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Teig in eine Kastenform füllen; Grösse der Form unklar, im Video eine Glasform."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "50 Min. bei 180 °C backen."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/proteinbrot-ohne-mehl/"
+}

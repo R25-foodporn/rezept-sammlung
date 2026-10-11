@@ -344,6 +344,15 @@
       "frisch_count": 6
     },
     {
+      "slug": "proteinbrot-ohne-mehl",
+      "title": "Proteinbrot ohne Mehl",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/proteinbrot-ohne-mehl/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fproteinbrot-ohne-mehl%2F&source=web",
+      "source_json": "recipes/proteinbrot-ohne-mehl.json",
+      "frisch_count": 4
+    },
+    {
       "slug": "quinoa-milchreis-ohne-zucker",
       "title": "Quinoa-Milchreis ohne Zucker",
       "portions": 2,
