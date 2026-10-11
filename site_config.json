@@ -200,6 +200,15 @@
       "frisch_count": 2
     },
     {
+      "slug": "haehnchen-fleischbaellchen-kraeuter-orzo",
+      "title": "Hähnchen-Fleischbällchen mit Kräuter-Orzo",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/haehnchen-fleischbaellchen-kraeuter-orzo/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fhaehnchen-fleischbaellchen-kraeuter-orzo%2F&source=web",
+      "source_json": "recipes/haehnchen-fleischbaellchen-kraeuter-orzo.json",
+      "frisch_count": 9
+    },
+    {
       "slug": "haehnchen-kartoffel-pfanne",
       "title": "Hähnchen-Kartoffel-Pfanne",
       "portions": "unklar",
