@@ -326,6 +326,15 @@
       "frisch_count": 5
     },
     {
+      "slug": "mehlfreier-schokoladenkuchen",
+      "title": "Mehlfreier Schokoladenkuchen",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/mehlfreier-schokoladenkuchen/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fmehlfreier-schokoladenkuchen%2F&source=web",
+      "source_json": "recipes/mehlfreier-schokoladenkuchen.json",
+      "frisch_count": 5
+    },
+    {
       "slug": "ofen-nudeln-tomatensauce-kaese",
       "title": "Ofen-Nudeln mit Tomatensauce und Käse",
       "portions": 2,
