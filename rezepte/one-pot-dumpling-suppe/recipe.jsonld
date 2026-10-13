@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "One-Pot-Dumpling-Suppe",
+  "author": {
+    "@type": "Person",
+    "name": "leilakocht"
+  },
+  "description": "Cremige Ramen-Suppe mit Currypaste, Erdnussbutter und Kokosmilch",
+  "recipeYield": "2 Portionen",
+  "recipeIngredient": [
+    "2  Knoblauchzehen (gepresst)",
+    "ca. 2–3 cm Ingwer (gerieben; im Video nicht verwendet, laut Quelle besser mit)",
+    "1 Stange Zitronengras (optional)",
+    "1  Limette (Saft)",
+    "6  Vegetarische Dumplings (Kühlregal oder TK laut Quelle unklar)",
+    "200 g Champignons oder braune Pilze",
+    "2  Eier (gekocht und halbiert)",
+    "Koriander oder Petersilie (frisch; Menge unklar)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Knoblauch, Currypaste und Erdnussbutter in einer grossen Pfanne anbraten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Gemüsebrühe und Kokosmilch dazugeben, Deckel kurz auflegen und einkochen lassen. Zeit unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Dumplings, Pilze und Nudeln hineingeben und bei leichter Hitze kurz garen. Zeit unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Ingwer, Zitronengras, Sojasauce und Limettensaft stehen in der Zutatenliste; wann sie dazukommen, sagt die Quelle nicht."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Anrichten mit den halbierten Eiern, Koriander oder Petersilie, schwarzem Sesam und Chiliöl."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/one-pot-dumpling-suppe/",
+  "totalTime": "PT< 10 Min.M"
+}

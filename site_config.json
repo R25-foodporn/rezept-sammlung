@@ -326,6 +326,15 @@
       "frisch_count": 4
     },
     {
+      "slug": "one-pot-dumpling-suppe",
+      "title": "One-Pot-Dumpling-Suppe",
+      "portions": 2,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/one-pot-dumpling-suppe/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fone-pot-dumpling-suppe%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "source_json": "recipes/one-pot-dumpling-suppe.json",
+      "frisch_count": 8
+    },
+    {
       "slug": "pekannuss-tahini-dattel-schnitten",
       "title": "Pekannuss-Tahini-Dattel-Schnitten",
       "portions": "unklar",
