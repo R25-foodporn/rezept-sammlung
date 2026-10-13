@@ -272,6 +272,15 @@
       "frisch_count": 3
     },
     {
+      "slug": "kichererbsen-bratlinge",
+      "title": "Kichererbsen-Bratlinge",
+      "portions": 2,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kichererbsen-bratlinge/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkichererbsen-bratlinge%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "source_json": "recipes/kichererbsen-bratlinge.json",
+      "frisch_count": 6
+    },
+    {
       "slug": "knusprige-pommes-ohne-fritteuse",
       "title": "Knusprige Pommes ohne Fritteuse",
       "portions": 2,
