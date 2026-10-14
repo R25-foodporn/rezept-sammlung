@@ -326,6 +326,15 @@
       "frisch_count": 5
     },
     {
+      "slug": "kokos-curry-huhn-wok",
+      "title": "Kokos-Curry-Huhn aus dem Wok",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kokos-curry-huhn-wok/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkokos-curry-huhn-wok%2F&source=web",
+      "source_json": "recipes/kokos-curry-huhn-wok.json",
+      "frisch_count": 12
+    },
+    {
       "slug": "lustige-omeletts-oktopus-minion-schweinchen",
       "title": "Lustige Omeletts: Würstchen-Oktopus, Minion, Schweinchen",
       "portions": "unklar",
