@@ -497,6 +497,15 @@
       "frisch_count": 3
     },
     {
+      "slug": "sushi-wuerfel-eiswuerfelform",
+      "title": "Sushi-Würfel aus der Eiswürfelform",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/sushi-wuerfel-eiswuerfelform/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fsushi-wuerfel-eiswuerfelform%2F&source=web",
+      "source_json": "recipes/sushi-wuerfel-eiswuerfelform.json",
+      "frisch_count": 2
+    },
+    {
       "slug": "thai-rindfleischsalat-yum-neua",
       "title": "Thai-Rindfleischsalat (Yum Neua)",
       "portions": 4,
