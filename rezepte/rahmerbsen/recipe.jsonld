@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Rahmerbsen",
+  "author": {
+    "@type": "Person",
+    "name": "FOODBOOM"
+  },
+  "description": "Cremige Erbsen aus dem Tiefkühler in heller Rahmsauce",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "350 g Erbsen, tiefgekühlt (TK)",
+    "½  Zwiebel (fein gewürfelt)",
+    "1 Flocke Butter (Menge unklar)",
+    "220 ml Milch",
+    "150 ml Rahm (in der Quelle «Sahne»)",
+    "Zitrone (1 Spritzer)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Butter schmelzen, Zwiebelwürfel dazugeben und 1 Minute farblos anschwitzen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Mehl einrühren und ca. 2 Minuten mit anschwitzen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Milch dazugeben und rühren, bis keine Klümpchen mehr da sind, dann den Rahm dazu."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Mit Salz, Pfeffer, Muskat, 1 Prise Zucker und 1 Spritzer Zitrone würzen. Die Sauce darf noch dickflüssig sein, die Erbsen geben Wasser ab."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Erbsen dazugeben und 5 Minuten bei kleiner Flamme köcheln."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Variante laut Quelle: mit Gemüsebrühe aufgiessen und pürieren, ergibt ein Erbsenrahm-Süppchen. Menge Brühe unklar."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rahmerbsen/",
+  "totalTime": "PT< 10 Min.M"
+}
