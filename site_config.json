@@ -182,6 +182,15 @@
       "frisch_count": 5
     },
     {
+      "slug": "gebratene-zucchini",
+      "title": "Gebratene Zucchini",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gebratene-zucchini/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgebratene-zucchini%2F&source=web",
+      "source_json": "recipes/gebratene-zucchini.json",
+      "frisch_count": 2
+    },
+    {
       "slug": "gesunder-new-york-cheesecake",
       "title": "Gesunder New-York-Cheesecake",
       "portions": 8,

@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Gebratene Zucchini",
+  "author": {
+    "@type": "Person",
+    "name": "FOODBOOM"
+  },
+  "description": "Fingerdicke Streifen in brauner Butter mit Knoblauch-Thymian-Öl",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "2  Zucchini (fingerdicke Streifen)",
+    "1 Flocke Butter (Menge unklar)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Zucchini in fingerdicke Streifen schneiden."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Butter in der Pfanne schmelzen, sie darf ruhig schon braun sein. Erste Zucchini hineingeben, die zweite schneiden und dazugeben. Noch nicht salzen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Die Zucchini in Ruhe braten lassen, nicht ständig wenden. Zeit unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Knoblauch-Thymian-Öl dazugeben, alternativ etwas Öl mit Knoblauch und Thymian."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Kurz vor Garende salzen und pfeffern, gut vermengen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "In einem Sieb abtropfen lassen und servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gebratene-zucchini/"
+}
