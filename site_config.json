@@ -497,6 +497,15 @@
       "frisch_count": 3
     },
     {
+      "slug": "siebenbuergisches-sauerkraut-fass",
+      "title": "Siebenbürgisches Sauerkraut im Fass",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/siebenbuergisches-sauerkraut-fass/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fsiebenbuergisches-sauerkraut-fass%2F&source=web",
+      "source_json": "recipes/siebenbuergisches-sauerkraut-fass.json",
+      "frisch_count": 5
+    },
+    {
       "slug": "spaghetti-aglio-e-olio",
       "title": "Spaghetti aglio e olio",
       "portions": "unklar",
