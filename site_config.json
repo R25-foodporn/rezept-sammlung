@@ -254,6 +254,15 @@
       "frisch_count": 9
     },
     {
+      "slug": "karotten-tarte-tatin",
+      "title": "Karotten-Tarte-Tatin",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/karotten-tarte-tatin/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkarotten-tarte-tatin%2F&source=web",
+      "source_json": "recipes/karotten-tarte-tatin.json",
+      "frisch_count": 5
+    },
+    {
       "slug": "kartoffel-chili-pfanne-bohnen-mais",
       "title": "Kartoffel-Chili-Pfanne",
       "portions": 2,
