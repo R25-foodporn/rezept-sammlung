@@ -524,6 +524,15 @@
       "frisch_count": 3
     },
     {
+      "slug": "spaghetti-carbonara-ohne-sahne",
+      "title": "Spaghetti Carbonara ohne Sahne",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/spaghetti-carbonara-ohne-sahne/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fspaghetti-carbonara-ohne-sahne%2F&source=web",
+      "source_json": "recipes/spaghetti-carbonara-ohne-sahne.json",
+      "frisch_count": 3
+    },
+    {
       "slug": "sushi-wuerfel-eiswuerfelform",
       "title": "Sushi-Würfel aus der Eiswürfelform",
       "portions": "unklar",

@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Spaghetti Carbonara ohne Sahne",
+  "author": {
+    "@type": "Person",
+    "name": "John and Lisa's Kitchen and Home"
+  },
+  "description": "Pancetta, Eigelb, Ei und Pecorino, cremig statt Rührei",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "Pancetta (in Stücken, Menge unklar; SecondBrain: ca. 100 g, geschätzt, nicht aus der Quelle)",
+    "3  Eier (davon 2 nur als Eigelb, 1 ganz)",
+    "30 g Pecorino (gerieben)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Spaghetti kochen. Ob Salz oder Öl ins Wasser kommt, lässt die Quelle offen. Kochzeit unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Pancetta in Stücke schneiden und in die Pfanne geben. Im Video ist bereits etwas Öl in der Pfanne. Bratzeit und Hitze unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "2 Eigelb und 1 ganzes Ei verquirlen, 30 g geriebenen Pecorino unterrühren. Traditionell nimmt man nur Eigelb."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Die Spaghetti nicht abgiessen, sondern mit der Zange direkt aus dem Wasser in die Pfanne geben und durchrühren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Ohne Hitze die Eimischung und den Käse dazugeben und rühren. Kein zusätzliches Wasser, nur das, was an der Pasta hängt."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Sofort servieren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Familiennotiz von SecondBrain, nicht aus der Quelle: Die Eier werden nicht durchgegart. Für Martin, geboren Nov. 2025, Eier durchgaren oder eine Portion separat zubereiten. Pecorino und Pancetta sind salzig, für Kinder sparsam."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/spaghetti-carbonara-ohne-sahne/"
+}
