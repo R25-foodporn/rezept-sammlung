@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Gefüllte Zwiebeln",
+  "author": {
+    "@type": "Person",
+    "name": "Rimaluu"
+  },
+  "description": "Mit Reis, Kräutern, Minze und Hackfleisch oder Baumnüssen in Tomatensauce",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "4  Zwiebeln (gross, das ist laut Quelle wichtig)",
+    "250 g Hackfleisch (Sorte unklar; vegetarisch weglassen)",
+    "1  Petersilie (Bund)",
+    "½  Koriander (Bund)",
+    "1  Frühlingszwiebeln (Bund, in der Quelle Lauchzwiebeln)",
+    "Minze (frisch, Menge unklar)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Grosse Zwiebeln bis zur Mitte einschneiden und bei schwacher Hitze kurz in heissem Wasser köcheln. Die genaue Kochzeit ist unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Petersilie, Koriander, Frühlingszwiebeln und Minze fein hacken. Laut Quelle kommt auch gehackte Zwiebel in die Füllung, die Menge ist unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Vegetarisch: Baumnüsse klein hacken und ca. eine halbe Stunde in Wasser einlegen. Im Video ist die Hälfte mit Fleisch und die Hälfte mit Baumnüssen gefüllt."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Kräuter mit Hackfleisch oder Baumnüssen, Reis, Gewürzen, 1½ EL Tomatenmark und Olivenöl gut vermengen. Ganz ohne Fleisch ½ EL Tomatenmark mehr nehmen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Die Zwiebeln eine halbe Stunde in kaltes Wasser legen, dann die Schichten ablösen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Sauce: 1½ EL Tomatenmark, 2 EL Olivenöl, Gewürze und 2 Tassen Wasser verrühren und unten in den Topf oder die Form geben."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Die Zwiebelschichten grosszügig füllen und in die Sauce legen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "text": "Im Ofen mit Alufolie 40 Min. garen, dann ohne Folie weitere 20 Min. Die Temperatur ist unklar. Alternative laut Beschreibung: im Topf 30–40 Min. sanft köcheln lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "text": "Im Video wird mit Dill garniert, abgeleitet aus dem Video; Dill steht nicht in der Zutatenliste."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gefuellte-zwiebeln/"
+}
