@@ -197,7 +197,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gefuellte-zwiebeln/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgefuellte-zwiebeln%2F&source=web",
       "source_json": "recipes/gefuellte-zwiebeln.json",
-      "frisch_count": 6
+      "frisch_count": 6,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gefuellte-zwiebeln/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgefuellte-zwiebeln%2Fvorrat%2F&source=web",
+      "vorrat_count": 10
     },
     {
       "slug": "gesunder-new-york-cheesecake",
