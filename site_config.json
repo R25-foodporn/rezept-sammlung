@@ -182,6 +182,15 @@
       "frisch_count": 2
     },
     {
+      "slug": "feta-olivenoel-dip",
+      "title": "Feta-Olivenöl-Dip",
+      "portions": 6,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/feta-olivenoel-dip/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Ffeta-olivenoel-dip%2F&source=web&baseQuantity=6&requestedQuantity=6",
+      "source_json": "recipes/feta-olivenoel-dip.json",
+      "frisch_count": 3
+    },
+    {
       "slug": "franzoesische-apfeltarte",
       "title": "Französische Apfeltarte",
       "portions": 6,

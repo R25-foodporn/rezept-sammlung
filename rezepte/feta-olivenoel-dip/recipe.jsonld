@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Feta-Olivenöl-Dip",
+  "author": {
+    "@type": "Person",
+    "name": "Unicorns in the Kitchen"
+  },
+  "description": "Mit Kalamata-Oliven, Baumnüssen, Granatapfelmelasse, Aleppo-Pfeffer und Sumach – in 5 Minuten, ohne Kochen",
+  "recipeYield": "6 Portionen",
+  "recipeIngredient": [
+    "¼ Tasse Feta (zerbröckelt; am besten Feta am Stück in Lake)",
+    "1 EL Petersilie (gehackt)",
+    "Knuspriges Brot (warm, zum Servieren, Menge unklar; z. B. Focaccia oder Barbari)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Alle Zutaten in eine flache Schale oder auf einen Servierteller geben. Im Video zuerst das Olivenöl, dann Granatapfelmelasse, Knoblauch, Petersilie, Oliven, Baumnüsse, Feta und die Gewürze."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Vorsichtig vermischen, sodass der Feta in sichtbaren Bröckchen bleibt. Die Konsistenz ist eher stückig wie ein Aufstrich als ein Öl-Dip."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Sofort mit warmem, knusprigem Brot servieren, spätestens innert ca. 30 Min. nach dem Mischen, sonst wird der Feta weich und die Nüsse verlieren den Biss."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Hinweis Kinder, nicht aus der Quelle: für Gabriel 3 J. die Baumnüsse sehr fein hacken oder mahlen, ganze oder grobe Nussstücke sind für Kleinkinder ein Verschluckrisiko; Aleppo-Pfeffer und roher Knoblauch können scharf sein, für die Kinder eine Portion vorher ohne abnehmen. Für Martin 11 Mon. wegen Nüssen, Salz in Feta und Oliven und Schärfe eher nicht geeignet."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/feta-olivenoel-dip/",
+  "prepTime": "PT5M",
+  "totalTime": "PT5M"
+}
