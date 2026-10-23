@@ -155,6 +155,15 @@
       "frisch_count": 8
     },
     {
+      "slug": "crispy-smashed-potatoes",
+      "title": "Crispy Smashed Potatoes",
+      "portions": "unklar",
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/crispy-smashed-potatoes/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fcrispy-smashed-potatoes%2F&source=web",
+      "source_json": "recipes/crispy-smashed-potatoes.json",
+      "frisch_count": 3
+    },
+    {
       "slug": "dirty-cabbage-airfryer",
       "title": "Dirty Cabbage aus dem Airfryer",
       "portions": "unklar",
