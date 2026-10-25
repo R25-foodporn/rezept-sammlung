@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Milchreis für Martin",
+  "author": {
+    "@type": "Person",
+    "name": "Eigener Vorschlag Essen, nicht aus einer Quelle"
+  },
+  "description": "Ohne Zucker, Honig und Salz – mit Apfel oder Banane und Zimt",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "400 ml Vollmilch",
+    "Apfel (gerieben, Menge unklar; oder Banane)",
+    "Banane (zerdrückt, Menge unklar; statt Apfel)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Milchreis und Vollmilch in einen Topf geben und aufkochen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Zugedeckt ca. 30 Min. köcheln lassen und dabei oft rühren, damit nichts anbrennt."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Mit geriebenem Apfel oder zerdrückter Banane und einer Prise Zimt mischen. Kein Zucker, kein Honig, kein Salz."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Für Martin, fast 1 J.: vor dem Essen gut abkühlen lassen und die Temperatur prüfen. Gabriel, 3 J., kann mitessen."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/milchreis-fuer-martin/",
+  "cookTime": "PT30M"
+}
