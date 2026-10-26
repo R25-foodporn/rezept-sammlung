@@ -272,7 +272,11 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/griessbrei-fuer-martin/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgriessbrei-fuer-martin%2F&source=web",
       "source_json": "recipes/griessbrei-fuer-martin.json",
-      "frisch_count": 1
+      "frisch_count": 1,
+      "geraete": [
+        "monsieur_cuisine",
+        "siemens_home_connect"
+      ]
     },
     {
       "slug": "guenstige-schmorstuecke-metzger",
@@ -482,7 +486,11 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/milchreis-fuer-martin/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fmilchreis-fuer-martin%2F&source=web",
       "source_json": "recipes/milchreis-fuer-martin.json",
-      "frisch_count": 3
+      "frisch_count": 3,
+      "geraete": [
+        "monsieur_cuisine",
+        "siemens_home_connect"
+      ]
     },
     {
       "slug": "ofen-nudeln-tomatensauce-kaese",
