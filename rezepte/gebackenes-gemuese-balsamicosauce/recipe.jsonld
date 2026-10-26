@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Gebackenes Gemüse mit Balsamicosauce",
+  "author": {
+    "@type": "Person",
+    "name": "Siemens varioSpeed-Heft S. 17"
+  },
+  "description": "Siemens varioSpeed · Mike (HM736G1B1C) · Umluftgrill + Mikrowelle",
+  "recipeYield": "4 Portionen",
+  "recipeIngredient": [
+    "200 g Süsskartoffeln",
+    "1 Stück Kartoffel",
+    "2 Stück Karotten",
+    "400 g Kürbis, z. B. Hokkaido (nicht schälen)",
+    "1 Stück Zwiebel (für die Sauce)",
+    "1 Stück Knoblauchzehe",
+    "100 ml Rahm",
+    "6 Stück Salbeiblätter (fein geschnitten)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Gemüse waschen, schälen (ausser den Kürbis) und in sehr feine Scheiben schneiden. In der Glas-Auflaufform verteilen, mit Olivenöl beträufeln und salzen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Gemüse backen: Umluftgrill 180 °C + Mikrowelle 360 W, ca. 16 Min."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Für die Sauce Zwiebel und Knoblauch sehr fein schneiden. Zwiebel mit 2 EL Olivenöl in einer Glasform mit Deckel bei 600 W 3 Min. anschwitzen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Mit Balsamico, Honig, Rahm, Salbei und Gewürzen abschmecken. Bei 600 W 3–4 Min. garen. Zum Schluss den Knoblauch zugeben."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Sauce über dem gebackenen Gemüse verteilen und servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gebackenes-gemuese-balsamicosauce/",
+  "cookTime": "PT16M"
+}

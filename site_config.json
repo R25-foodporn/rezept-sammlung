@@ -101,6 +101,18 @@
       "frisch_count": 3
     },
     {
+      "slug": "apfelgratin-siemens",
+      "title": "Apfelgratin",
+      "portions": 4,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/apfelgratin-siemens/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fapfelgratin-siemens%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "source_json": "recipes/apfelgratin-siemens.json",
+      "frisch_count": 4,
+      "geraete": [
+        "siemens_home_connect"
+      ]
+    },
+    {
       "slug": "avocado-toast-chili-crisp-eier",
       "title": "Avocado-Toast mit Chili-Crisp-Eiern",
       "portions": "unklar",
@@ -191,6 +203,18 @@
       "frisch_count": 5
     },
     {
+      "slug": "gebackenes-gemuese-balsamicosauce",
+      "title": "Gebackenes Gemüse mit Balsamicosauce",
+      "portions": 4,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gebackenes-gemuese-balsamicosauce/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgebackenes-gemuese-balsamicosauce%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "source_json": "recipes/gebackenes-gemuese-balsamicosauce.json",
+      "frisch_count": 8,
+      "geraete": [
+        "siemens_home_connect"
+      ]
+    },
+    {
       "slug": "gebratene-zucchini",
       "title": "Gebratene Zucchini",
       "portions": "unklar",
@@ -228,6 +252,18 @@
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fglutenfreies-low-carb-toastbrot%2F&source=web",
       "source_json": "recipes/glutenfreies-low-carb-toastbrot.json",
       "frisch_count": 2
+    },
+    {
+      "slug": "gnocchi-salbeibutter-dampf",
+      "title": "Gnocchi mit Salbeibutter",
+      "portions": 4,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gnocchi-salbeibutter-dampf/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgnocchi-salbeibutter-dampf%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "source_json": "recipes/gnocchi-salbeibutter-dampf.json",
+      "frisch_count": 5,
+      "geraete": [
+        "siemens_home_connect"
+      ]
     },
     {
       "slug": "griessbrei-fuer-martin",
@@ -282,6 +318,18 @@
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fjamaikanischer-ital-eintopf%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/jamaikanischer-ital-eintopf.json",
       "frisch_count": 9
+    },
+    {
+      "slug": "joghurt-ahornsirup-birne-dampf",
+      "title": "Selbstgemachter Joghurt mit Ahornsirup, Birne und Haselnüssen",
+      "portions": 4,
+      "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/joghurt-ahornsirup-birne-dampf/",
+      "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fjoghurt-ahornsirup-birne-dampf%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "source_json": "recipes/joghurt-ahornsirup-birne-dampf.json",
+      "frisch_count": 3,
+      "geraete": [
+        "siemens_home_connect"
+      ]
     },
     {
       "slug": "karotten-tarte-tatin",
