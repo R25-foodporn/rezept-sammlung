@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Ozempic-Salat – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "Nicol & Giannina"
+  },
+  "description": "Viraler Weisskohl-Salat mit Avocado-Apfel-Dressing",
+  "recipeYield": "2 Portionen",
+  "recipeIngredient": [
+    "Sesam (etwas, nach Belieben)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Weisskohl fein schneiden oder hobeln (ca. 150 g). Gurke waschen und in Stücke oder Scheiben schneiden."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Dressing: 2 Avocados und 2 grüne Äpfel (mit Schale) mit etwas Zitronensaft cremig pürieren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Weisskohl und Gurke mit dem Dressing vermengen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Mit einer kleinen Handvoll frischem Koriander und etwas Sesam bestreuen und sofort servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/ozempic-salat/vorrat/",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M"
+}

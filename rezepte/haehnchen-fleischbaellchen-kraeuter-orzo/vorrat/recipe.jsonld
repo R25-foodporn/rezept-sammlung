@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Hähnchen-Fleischbällchen mit Kräuter-Orzo – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "Idee: Yarin Danieli"
+  },
+  "description": "Familienversion aus einer Pfanne: Tomaten-Orzo, Spinat, Zitrone",
+  "recipeYield": "4 Portionen",
+  "recipeIngredient": [
+    "30 g Paniermehl (Tyla: ¼ Cup Panko)",
+    "1 TL Oregano, getrocknet (½ TL Bällchen, ½ TL Orzo)",
+    "400 g Dosentomaten, gehackt (mit Saft)",
+    "250 ml Bouillon, salzarm (Tyla: Hühnerbouillon)",
+    "125 ml Wasser",
+    "200 g Orzo (Tyla: 1 Cup)",
+    "2 EL Olivenöl (je 1 EL Bällchen und Orzo)",
+    "Salz (wenig für die Kinder; Tyla: total ½ TL)",
+    "Schwarzer Pfeffer (Tyla: total ¼ TL)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Pouletgehacktes, Paniermehl, Ei, ca. 60 ml Petersilie, 2 Knoblauchzehen, ½ TL Oregano, wenig Salz und Pfeffer locker mischen. 18–20 Bällchen à ca. 2,5 cm formen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "1 EL Olivenöl in einer grossen Pfanne mit Deckel erhitzen, Bällchen bei mittlerer bis starker Hitze 3–4 Min. rundum anbraten, herausnehmen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Hitze reduzieren, 1 EL Öl, Zwiebel 3–4 Min. andünsten, 2 Knoblauchzehen 1 Min. mitdünsten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Tomaten, Bouillon, Wasser, Orzo, ½ TL Oregano, wenig Salz und Pfeffer einrühren und sanft aufkochen, Bratsatz lösen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Bällchen halb eintauchen, zugedeckt bei kleiner Hitze 12–15 Min. garen, ab und zu rühren, bis der Orzo weich ist. Kerntemperatur Bällchen 74 °C."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Vom Herd nehmen, Spinat zusammenfallen lassen, Zitronensaft, Petersilie und Dill unterheben, nach Wunsch Feta darüber."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/haehnchen-fleischbaellchen-kraeuter-orzo/vorrat/",
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M"
+}

@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Kichererbsen-Bratlinge – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "The Food Explorer"
+  },
+  "description": "Mit Zwiebel, Peperoni und Petersilie, dazu Joghurt-Gurken-Sauce",
+  "recipeYield": "2 Portionen",
+  "recipeIngredient": [
+    "1 Dose Kichererbsen (abgetropft ca. 240 g)",
+    "60 g Paniermehl",
+    "2 EL Olivenöl (ca. 28 g, zum Braten)",
+    "60 g Essiggurken (fein gerieben, Sauce)",
+    "Salz (nach Geschmack)",
+    "Schwarzer Pfeffer (nach Geschmack)",
+    "Paprikapulver (nach Geschmack)",
+    "Kräuter der Provence (nach Geschmack)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Eier verquirlen, abgetropfte Kichererbsen dazugeben und mit dem Stabmixer grob pürieren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Zwiebel hacken und in Olivenöl andünsten, Peperoni dazugeben, mit Salz, Pfeffer und Paprika würzen und 7 Minuten braten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Gemüse zur Kichererbsenmasse geben, Petersilie, Salz, Pfeffer, Kräuter der Provence und 2 gepresste Knoblauchzehen untermischen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Paniermehl unterrühren, mit nassen Händen Bratlinge formen. Anzahl unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "In Olivenöl pro Seite 5 Minuten braten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Für die Sauce Joghurt mit geriebener Essiggurke, 1 gepressten Knoblauchzehe, Salz und Pfeffer verrühren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kichererbsen-bratlinge/vorrat/"
+}

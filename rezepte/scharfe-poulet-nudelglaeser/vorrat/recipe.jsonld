@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Scharfe Poulet-Nudelgläser – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "The Doctor's Kitchen"
+  },
+  "description": "High-Protein-Lunch im Glas mit Brokkoli, Pak Choi und Edamame – nur heisses Wasser drauf",
+  "recipeYield": "3 Portionen",
+  "recipeIngredient": [
+    "3 EL Sojasauce (glutenfrei: Tamari)",
+    "3  Gemüsebouillonwürfel (zerbröselt, gern salzarm)",
+    "1½ EL Reisessig",
+    "3 TL Chiliöl (im Video zusätzlich Chili Crisp, Menge unklar)",
+    "3  Knoblauchzehen (fein gerieben, einige Minuten stehen lassen)",
+    "135 g Reis-Vermicelli (im Video Vollkorn-Reis-Vermicelli)",
+    "1,5 l Wasser (kochend, 500 ml pro Glas, erst beim Essen)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Knoblauch fein reiben und einige Minuten stehen lassen. Gefrorene Edamame mit etwas kochendem Wasser auftauen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Brokkoli fein schneiden, den Strunk dünner als die Röschen. Pak Choi in Blätter zupfen, Frühlingszwiebeln fein schneiden. Gegartes Poulet von Hand zerzupfen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Würzbasis auf 3 Gläser verteilen: Sojasauce, Reisessig, Chiliöl, Knoblauch und zerbröselte Bouillonwürfel, mit einer Gabel zerdrücken und verrühren. Gläser im Video 750 ml, auf der Rezeptseite 1 l."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Darauf schichten: Vermicelli, Edamame, Brokkoli, Pak Choi, Frühlingszwiebeln und zuletzt das Poulet. Deckel drauf und kühl stellen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Zum Essen das Glas ca. 10 Min. bei Zimmertemperatur stehen lassen, ca. 500 ml kochendes Wasser dazugiessen, verrühren, zugedeckt 5 Min. ziehen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Limettensaft darüber und sofort essen. Zu Hause alternativ alles in eine Schüssel geben und mit heissem Wasser oder Bouillon übergiessen."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/scharfe-poulet-nudelglaeser/vorrat/",
+  "totalTime": "PT15M"
+}

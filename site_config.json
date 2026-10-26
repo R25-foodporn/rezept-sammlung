@@ -17,7 +17,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/einfache-linsensuppe/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Feinfache-linsensuppe%2F&source=web&baseQuantity=3&requestedQuantity=3",
       "source_json": "recipes/einfache-linsensuppe.json",
-      "frisch_count": 6
+      "frisch_count": 6,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/einfache-linsensuppe/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Feinfache-linsensuppe%2Fvorrat%2F&source=web&baseQuantity=3&requestedQuantity=3",
+      "vorrat_count": 7
     },
     {
       "slug": "linsen-harissa-tomaten-sauce",
@@ -26,7 +29,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/linsen-harissa-tomaten-sauce/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Flinsen-harissa-tomaten-sauce%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/linsen-harissa-tomaten-sauce.json",
-      "frisch_count": 5
+      "frisch_count": 5,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/linsen-harissa-tomaten-sauce/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Flinsen-harissa-tomaten-sauce%2Fvorrat%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "vorrat_count": 7
     },
     {
       "slug": "ozempic-salat",
@@ -35,7 +41,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/ozempic-salat/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fozempic-salat%2F&source=web&baseQuantity=2&requestedQuantity=2",
       "source_json": "recipes/ozempic-salat.json",
-      "frisch_count": 6
+      "frisch_count": 6,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/ozempic-salat/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fozempic-salat%2Fvorrat%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "vorrat_count": 1
     },
     {
       "slug": "chinesischer-kartoffelsalat",
@@ -44,7 +53,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/chinesischer-kartoffelsalat/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fchinesischer-kartoffelsalat%2F&source=web&baseQuantity=2&requestedQuantity=2",
       "source_json": "recipes/chinesischer-kartoffelsalat.json",
-      "frisch_count": 5
+      "frisch_count": 5,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/chinesischer-kartoffelsalat/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fchinesischer-kartoffelsalat%2Fvorrat%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "vorrat_count": 10
     },
     {
       "slug": "norddeutscher-kartoffelsalat",
@@ -53,7 +65,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/norddeutscher-kartoffelsalat/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fnorddeutscher-kartoffelsalat%2F&source=web&baseQuantity=6&requestedQuantity=6",
       "source_json": "recipes/norddeutscher-kartoffelsalat.json",
-      "frisch_count": 4
+      "frisch_count": 4,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/norddeutscher-kartoffelsalat/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fnorddeutscher-kartoffelsalat%2Fvorrat%2F&source=web&baseQuantity=6&requestedQuantity=6",
+      "vorrat_count": 7
     },
     {
       "slug": "schwaebischer-kartoffelsalat",
@@ -62,7 +77,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/schwaebischer-kartoffelsalat/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fschwaebischer-kartoffelsalat%2F&source=web&baseQuantity=6&requestedQuantity=6",
       "source_json": "recipes/schwaebischer-kartoffelsalat.json",
-      "frisch_count": 2
+      "frisch_count": 2,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/schwaebischer-kartoffelsalat/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fschwaebischer-kartoffelsalat%2Fvorrat%2F&source=web&baseQuantity=6&requestedQuantity=6",
+      "vorrat_count": 9
     },
     {
       "slug": "pepperoni-pizza-caesar-wrap",
@@ -71,7 +89,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/pepperoni-pizza-caesar-wrap/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fpepperoni-pizza-caesar-wrap%2F&source=web&baseQuantity=1&requestedQuantity=1",
       "source_json": "recipes/pepperoni-pizza-caesar-wrap.json",
-      "frisch_count": 8
+      "frisch_count": 8,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/pepperoni-pizza-caesar-wrap/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fpepperoni-pizza-caesar-wrap%2Fvorrat%2F&source=web&baseQuantity=1&requestedQuantity=1",
+      "vorrat_count": 5
     },
     {
       "slug": "kartoffelauflauf-pilz-rahmsauce",
@@ -80,7 +101,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kartoffelauflauf-pilz-rahmsauce/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkartoffelauflauf-pilz-rahmsauce%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/kartoffelauflauf-pilz-rahmsauce.json",
-      "frisch_count": 7
+      "frisch_count": 7,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kartoffelauflauf-pilz-rahmsauce/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkartoffelauflauf-pilz-rahmsauce%2Fvorrat%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "vorrat_count": 4
     },
     {
       "slug": "low-carb-kaesekuchen",
@@ -89,7 +113,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/low-carb-kaesekuchen/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Flow-carb-kaesekuchen%2F&source=web&baseQuantity=12&requestedQuantity=12",
       "source_json": "recipes/low-carb-kaesekuchen.json",
-      "frisch_count": 3
+      "frisch_count": 3,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/low-carb-kaesekuchen/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Flow-carb-kaesekuchen%2Fvorrat%2F&source=web&baseQuantity=12&requestedQuantity=12",
+      "vorrat_count": 3
     },
     {
       "slug": "apfel-zimt-zupfbrot",
@@ -98,7 +125,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/apfel-zimt-zupfbrot/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fapfel-zimt-zupfbrot%2F&source=web&baseQuantity=1&requestedQuantity=1",
       "source_json": "recipes/apfel-zimt-zupfbrot.json",
-      "frisch_count": 3
+      "frisch_count": 3,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/apfel-zimt-zupfbrot/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fapfel-zimt-zupfbrot%2Fvorrat%2F&source=web&baseQuantity=1&requestedQuantity=1",
+      "vorrat_count": 5
     },
     {
       "slug": "apfelgratin-siemens",
@@ -108,6 +138,9 @@
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fapfelgratin-siemens%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/apfelgratin-siemens.json",
       "frisch_count": 4,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/apfelgratin-siemens/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fapfelgratin-siemens%2Fvorrat%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "vorrat_count": 5,
       "geraete": [
         "siemens_home_connect"
       ]
@@ -119,7 +152,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/avocado-toast-chili-crisp-eier/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Favocado-toast-chili-crisp-eier%2F&source=web",
       "source_json": "recipes/avocado-toast-chili-crisp-eier.json",
-      "frisch_count": 4
+      "frisch_count": 4,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/avocado-toast-chili-crisp-eier/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Favocado-toast-chili-crisp-eier%2Fvorrat%2F&source=web",
+      "vorrat_count": 5
     },
     {
       "slug": "bienenstich-ohne-reue-glutenfrei",
@@ -128,7 +164,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/bienenstich-ohne-reue-glutenfrei/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fbienenstich-ohne-reue-glutenfrei%2F&source=web&baseQuantity=3&requestedQuantity=3",
       "source_json": "recipes/bienenstich-ohne-reue-glutenfrei.json",
-      "frisch_count": 2
+      "frisch_count": 2,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/bienenstich-ohne-reue-glutenfrei/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fbienenstich-ohne-reue-glutenfrei%2Fvorrat%2F&source=web&baseQuantity=3&requestedQuantity=3",
+      "vorrat_count": 10
     },
     {
       "slug": "bounty-riegel-4-zutaten",
@@ -137,7 +176,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/bounty-riegel-4-zutaten/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fbounty-riegel-4-zutaten%2F&source=web&baseQuantity=12&requestedQuantity=12",
       "source_json": "recipes/bounty-riegel-4-zutaten.json",
-      "frisch_count": 1
+      "frisch_count": 1,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/bounty-riegel-4-zutaten/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fbounty-riegel-4-zutaten%2Fvorrat%2F&source=web&baseQuantity=12&requestedQuantity=12",
+      "vorrat_count": 3
     },
     {
       "slug": "carnivore-brot",
@@ -146,7 +188,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/carnivore-brot/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fcarnivore-brot%2F&source=web&baseQuantity=10&requestedQuantity=10",
       "source_json": "recipes/carnivore-brot.json",
-      "frisch_count": 3
+      "frisch_count": 3,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/carnivore-brot/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fcarnivore-brot%2Fvorrat%2F&source=web&baseQuantity=10&requestedQuantity=10",
+      "vorrat_count": 4
     },
     {
       "slug": "couscoussalat-pfannengemuese",
@@ -155,7 +200,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/couscoussalat-pfannengemuese/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fcouscoussalat-pfannengemuese%2F&source=web&baseQuantity=6&requestedQuantity=6",
       "source_json": "recipes/couscoussalat-pfannengemuese.json",
-      "frisch_count": 8
+      "frisch_count": 8,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/couscoussalat-pfannengemuese/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fcouscoussalat-pfannengemuese%2Fvorrat%2F&source=web&baseQuantity=6&requestedQuantity=6",
+      "vorrat_count": 8
     },
     {
       "slug": "crispy-smashed-potatoes",
@@ -164,7 +212,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/crispy-smashed-potatoes/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fcrispy-smashed-potatoes%2F&source=web",
       "source_json": "recipes/crispy-smashed-potatoes.json",
-      "frisch_count": 3
+      "frisch_count": 3,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/crispy-smashed-potatoes/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fcrispy-smashed-potatoes%2Fvorrat%2F&source=web",
+      "vorrat_count": 5
     },
     {
       "slug": "dirty-cabbage-airfryer",
@@ -173,7 +224,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/dirty-cabbage-airfryer/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fdirty-cabbage-airfryer%2F&source=web",
       "source_json": "recipes/dirty-cabbage-airfryer.json",
-      "frisch_count": 5
+      "frisch_count": 5,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/dirty-cabbage-airfryer/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fdirty-cabbage-airfryer%2Fvorrat%2F&source=web",
+      "vorrat_count": 3
     },
     {
       "slug": "erdnuss-nudeln",
@@ -191,7 +245,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/feta-olivenoel-dip/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Ffeta-olivenoel-dip%2F&source=web&baseQuantity=6&requestedQuantity=6",
       "source_json": "recipes/feta-olivenoel-dip.json",
-      "frisch_count": 3
+      "frisch_count": 3,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/feta-olivenoel-dip/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Ffeta-olivenoel-dip%2Fvorrat%2F&source=web&baseQuantity=6&requestedQuantity=6",
+      "vorrat_count": 7
     },
     {
       "slug": "franzoesische-apfeltarte",
@@ -200,7 +257,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/franzoesische-apfeltarte/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Ffranzoesische-apfeltarte%2F&source=web&baseQuantity=6&requestedQuantity=6",
       "source_json": "recipes/franzoesische-apfeltarte.json",
-      "frisch_count": 5
+      "frisch_count": 5,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/franzoesische-apfeltarte/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Ffranzoesische-apfeltarte%2Fvorrat%2F&source=web&baseQuantity=6&requestedQuantity=6",
+      "vorrat_count": 5
     },
     {
       "slug": "gebackenes-gemuese-balsamicosauce",
@@ -210,6 +270,9 @@
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgebackenes-gemuese-balsamicosauce%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/gebackenes-gemuese-balsamicosauce.json",
       "frisch_count": 8,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gebackenes-gemuese-balsamicosauce/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgebackenes-gemuese-balsamicosauce%2Fvorrat%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "vorrat_count": 6,
       "geraete": [
         "siemens_home_connect"
       ]
@@ -221,7 +284,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gebratene-zucchini/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgebratene-zucchini%2F&source=web",
       "source_json": "recipes/gebratene-zucchini.json",
-      "frisch_count": 2
+      "frisch_count": 2,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gebratene-zucchini/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgebratene-zucchini%2Fvorrat%2F&source=web",
+      "vorrat_count": 3
     },
     {
       "slug": "gefuellte-zwiebeln",
@@ -242,7 +308,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gesunder-new-york-cheesecake/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgesunder-new-york-cheesecake%2F&source=web&baseQuantity=8&requestedQuantity=8",
       "source_json": "recipes/gesunder-new-york-cheesecake.json",
-      "frisch_count": 6
+      "frisch_count": 6,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gesunder-new-york-cheesecake/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgesunder-new-york-cheesecake%2Fvorrat%2F&source=web&baseQuantity=8&requestedQuantity=8",
+      "vorrat_count": 9
     },
     {
       "slug": "glutenfreies-low-carb-toastbrot",
@@ -251,7 +320,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/glutenfreies-low-carb-toastbrot/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fglutenfreies-low-carb-toastbrot%2F&source=web",
       "source_json": "recipes/glutenfreies-low-carb-toastbrot.json",
-      "frisch_count": 2
+      "frisch_count": 2,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/glutenfreies-low-carb-toastbrot/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fglutenfreies-low-carb-toastbrot%2Fvorrat%2F&source=web",
+      "vorrat_count": 5
     },
     {
       "slug": "gnocchi-salbeibutter-dampf",
@@ -261,6 +333,9 @@
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgnocchi-salbeibutter-dampf%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/gnocchi-salbeibutter-dampf.json",
       "frisch_count": 5,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gnocchi-salbeibutter-dampf/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgnocchi-salbeibutter-dampf%2Fvorrat%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "vorrat_count": 5,
       "geraete": [
         "siemens_home_connect"
       ]
@@ -273,6 +348,9 @@
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgriessbrei-fuer-martin%2F&source=web",
       "source_json": "recipes/griessbrei-fuer-martin.json",
       "frisch_count": 1,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/griessbrei-fuer-martin/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fgriessbrei-fuer-martin%2Fvorrat%2F&source=web",
+      "vorrat_count": 2,
       "geraete": [
         "monsieur_cuisine",
         "siemens_home_connect"
@@ -285,7 +363,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/guenstige-schmorstuecke-metzger/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fguenstige-schmorstuecke-metzger%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/guenstige-schmorstuecke-metzger.json",
-      "frisch_count": 7
+      "frisch_count": 7,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/guenstige-schmorstuecke-metzger/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fguenstige-schmorstuecke-metzger%2Fvorrat%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "vorrat_count": 8
     },
     {
       "slug": "haehnchen-fleischbaellchen-kraeuter-orzo",
@@ -294,7 +375,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/haehnchen-fleischbaellchen-kraeuter-orzo/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fhaehnchen-fleischbaellchen-kraeuter-orzo%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/haehnchen-fleischbaellchen-kraeuter-orzo.json",
-      "frisch_count": 9
+      "frisch_count": 9,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/haehnchen-fleischbaellchen-kraeuter-orzo/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fhaehnchen-fleischbaellchen-kraeuter-orzo%2Fvorrat%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "vorrat_count": 9
     },
     {
       "slug": "haehnchen-kartoffel-pfanne",
@@ -303,7 +387,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/haehnchen-kartoffel-pfanne/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fhaehnchen-kartoffel-pfanne%2F&source=web",
       "source_json": "recipes/haehnchen-kartoffel-pfanne.json",
-      "frisch_count": 5
+      "frisch_count": 5,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/haehnchen-kartoffel-pfanne/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fhaehnchen-kartoffel-pfanne%2Fvorrat%2F&source=web",
+      "vorrat_count": 5
     },
     {
       "slug": "honig-chipotle-limetten-pulled-chicken",
@@ -312,7 +399,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/honig-chipotle-limetten-pulled-chicken/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fhonig-chipotle-limetten-pulled-chicken%2F&source=web&baseQuantity=10&requestedQuantity=10",
       "source_json": "recipes/honig-chipotle-limetten-pulled-chicken.json",
-      "frisch_count": 6
+      "frisch_count": 6,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/honig-chipotle-limetten-pulled-chicken/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fhonig-chipotle-limetten-pulled-chicken%2Fvorrat%2F&source=web&baseQuantity=10&requestedQuantity=10",
+      "vorrat_count": 5
     },
     {
       "slug": "jamaikanischer-ital-eintopf",
@@ -321,7 +411,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/jamaikanischer-ital-eintopf/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fjamaikanischer-ital-eintopf%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/jamaikanischer-ital-eintopf.json",
-      "frisch_count": 9
+      "frisch_count": 9,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/jamaikanischer-ital-eintopf/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fjamaikanischer-ital-eintopf%2Fvorrat%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "vorrat_count": 10
     },
     {
       "slug": "joghurt-ahornsirup-birne-dampf",
@@ -331,6 +424,9 @@
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fjoghurt-ahornsirup-birne-dampf%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/joghurt-ahornsirup-birne-dampf.json",
       "frisch_count": 3,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/joghurt-ahornsirup-birne-dampf/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fjoghurt-ahornsirup-birne-dampf%2Fvorrat%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "vorrat_count": 2,
       "geraete": [
         "siemens_home_connect"
       ]
@@ -342,7 +438,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/karotten-tarte-tatin/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkarotten-tarte-tatin%2F&source=web",
       "source_json": "recipes/karotten-tarte-tatin.json",
-      "frisch_count": 5
+      "frisch_count": 5,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/karotten-tarte-tatin/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkarotten-tarte-tatin%2Fvorrat%2F&source=web",
+      "vorrat_count": 6
     },
     {
       "slug": "kartoffel-chili-pfanne-bohnen-mais",
@@ -351,7 +450,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kartoffel-chili-pfanne-bohnen-mais/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkartoffel-chili-pfanne-bohnen-mais%2F&source=web&baseQuantity=2&requestedQuantity=2",
       "source_json": "recipes/kartoffel-chili-pfanne-bohnen-mais.json",
-      "frisch_count": 7
+      "frisch_count": 7,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kartoffel-chili-pfanne-bohnen-mais/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkartoffel-chili-pfanne-bohnen-mais%2Fvorrat%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "vorrat_count": 5
     },
     {
       "slug": "kartoffel-kaese-wrap",
@@ -369,7 +471,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kartoffel-spinat-quiche-ohne-teig/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkartoffel-spinat-quiche-ohne-teig%2F&source=web&baseQuantity=1&requestedQuantity=1",
       "source_json": "recipes/kartoffel-spinat-quiche-ohne-teig.json",
-      "frisch_count": 5
+      "frisch_count": 5,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kartoffel-spinat-quiche-ohne-teig/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkartoffel-spinat-quiche-ohne-teig%2Fvorrat%2F&source=web&baseQuantity=1&requestedQuantity=1",
+      "vorrat_count": 2
     },
     {
       "slug": "keto-kaesekuchen-happen-airfryer",
@@ -387,7 +492,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kichererbsen-bratlinge/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkichererbsen-bratlinge%2F&source=web&baseQuantity=2&requestedQuantity=2",
       "source_json": "recipes/kichererbsen-bratlinge.json",
-      "frisch_count": 6
+      "frisch_count": 6,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kichererbsen-bratlinge/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkichererbsen-bratlinge%2Fvorrat%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "vorrat_count": 8
     },
     {
       "slug": "kichererbsen-erdnussbutter-cookies",
@@ -396,7 +504,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kichererbsen-erdnussbutter-cookies/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkichererbsen-erdnussbutter-cookies%2F&source=web&baseQuantity=12&requestedQuantity=12",
       "source_json": "recipes/kichererbsen-erdnussbutter-cookies.json",
-      "frisch_count": 2
+      "frisch_count": 2,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kichererbsen-erdnussbutter-cookies/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkichererbsen-erdnussbutter-cookies%2Fvorrat%2F&source=web&baseQuantity=12&requestedQuantity=12",
+      "vorrat_count": 5
     },
     {
       "slug": "knoblauch-chili-ramen",
@@ -405,7 +516,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/knoblauch-chili-ramen/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fknoblauch-chili-ramen%2F&source=web",
       "source_json": "recipes/knoblauch-chili-ramen.json",
-      "frisch_count": 6
+      "frisch_count": 6,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/knoblauch-chili-ramen/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fknoblauch-chili-ramen%2Fvorrat%2F&source=web",
+      "vorrat_count": 9
     },
     {
       "slug": "knusprige-pommes-ohne-fritteuse",
@@ -414,7 +528,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/knusprige-pommes-ohne-fritteuse/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fknusprige-pommes-ohne-fritteuse%2F&source=web&baseQuantity=2&requestedQuantity=2",
       "source_json": "recipes/knusprige-pommes-ohne-fritteuse.json",
-      "frisch_count": 1
+      "frisch_count": 1,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/knusprige-pommes-ohne-fritteuse/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fknusprige-pommes-ohne-fritteuse%2Fvorrat%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "vorrat_count": 6
     },
     {
       "slug": "knusprige-suesskartoffel-pommes-airfryer",
@@ -423,7 +540,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/knusprige-suesskartoffel-pommes-airfryer/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fknusprige-suesskartoffel-pommes-airfryer%2F&source=web",
       "source_json": "recipes/knusprige-suesskartoffel-pommes-airfryer.json",
-      "frisch_count": 4
+      "frisch_count": 4,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/knusprige-suesskartoffel-pommes-airfryer/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fknusprige-suesskartoffel-pommes-airfryer%2Fvorrat%2F&source=web",
+      "vorrat_count": 5
     },
     {
       "slug": "knusprige-zucchini-ringe",
@@ -432,7 +552,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/knusprige-zucchini-ringe/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fknusprige-zucchini-ringe%2F&source=web&baseQuantity=2&requestedQuantity=2",
       "source_json": "recipes/knusprige-zucchini-ringe.json",
-      "frisch_count": 6
+      "frisch_count": 6,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/knusprige-zucchini-ringe/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fknusprige-zucchini-ringe%2Fvorrat%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "vorrat_count": 6
     },
     {
       "slug": "knuspriges-reispapier-omelett",
@@ -441,7 +564,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/knuspriges-reispapier-omelett/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fknuspriges-reispapier-omelett%2F&source=web",
       "source_json": "recipes/knuspriges-reispapier-omelett.json",
-      "frisch_count": 7
+      "frisch_count": 7,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/knuspriges-reispapier-omelett/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fknuspriges-reispapier-omelett%2Fvorrat%2F&source=web",
+      "vorrat_count": 3
     },
     {
       "slug": "kohlrabi-spaghetti-spinat-mascarpone-sauce",
@@ -450,7 +576,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kohlrabi-spaghetti-spinat-mascarpone-sauce/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkohlrabi-spaghetti-spinat-mascarpone-sauce%2F&source=web&baseQuantity=2&requestedQuantity=2",
       "source_json": "recipes/kohlrabi-spaghetti-spinat-mascarpone-sauce.json",
-      "frisch_count": 5
+      "frisch_count": 5,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kohlrabi-spaghetti-spinat-mascarpone-sauce/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkohlrabi-spaghetti-spinat-mascarpone-sauce%2Fvorrat%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "vorrat_count": 3
     },
     {
       "slug": "kokos-curry-huhn-wok",
@@ -459,7 +588,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kokos-curry-huhn-wok/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkokos-curry-huhn-wok%2F&source=web",
       "source_json": "recipes/kokos-curry-huhn-wok.json",
-      "frisch_count": 12
+      "frisch_count": 12,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/kokos-curry-huhn-wok/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fkokos-curry-huhn-wok%2Fvorrat%2F&source=web",
+      "vorrat_count": 9
     },
     {
       "slug": "lustige-omeletts-oktopus-minion-schweinchen",
@@ -468,7 +600,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/lustige-omeletts-oktopus-minion-schweinchen/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Flustige-omeletts-oktopus-minion-schweinchen%2F&source=web",
       "source_json": "recipes/lustige-omeletts-oktopus-minion-schweinchen.json",
-      "frisch_count": 5
+      "frisch_count": 5,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/lustige-omeletts-oktopus-minion-schweinchen/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Flustige-omeletts-oktopus-minion-schweinchen%2Fvorrat%2F&source=web",
+      "vorrat_count": 1
     },
     {
       "slug": "mehlfreier-schokoladenkuchen",
@@ -477,7 +612,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/mehlfreier-schokoladenkuchen/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fmehlfreier-schokoladenkuchen%2F&source=web",
       "source_json": "recipes/mehlfreier-schokoladenkuchen.json",
-      "frisch_count": 5
+      "frisch_count": 5,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/mehlfreier-schokoladenkuchen/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fmehlfreier-schokoladenkuchen%2Fvorrat%2F&source=web",
+      "vorrat_count": 10
     },
     {
       "slug": "milchreis-fuer-martin",
@@ -487,6 +625,9 @@
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fmilchreis-fuer-martin%2F&source=web",
       "source_json": "recipes/milchreis-fuer-martin.json",
       "frisch_count": 3,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/milchreis-fuer-martin/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fmilchreis-fuer-martin%2Fvorrat%2F&source=web",
+      "vorrat_count": 2,
       "geraete": [
         "monsieur_cuisine",
         "siemens_home_connect"
@@ -499,7 +640,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/ofen-nudeln-tomatensauce-kaese/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fofen-nudeln-tomatensauce-kaese%2F&source=web&baseQuantity=2&requestedQuantity=2",
       "source_json": "recipes/ofen-nudeln-tomatensauce-kaese.json",
-      "frisch_count": 4
+      "frisch_count": 4,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/ofen-nudeln-tomatensauce-kaese/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fofen-nudeln-tomatensauce-kaese%2Fvorrat%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "vorrat_count": 6
     },
     {
       "slug": "okonomiyaki",
@@ -517,7 +661,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/one-pot-dumpling-suppe/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fone-pot-dumpling-suppe%2F&source=web&baseQuantity=2&requestedQuantity=2",
       "source_json": "recipes/one-pot-dumpling-suppe.json",
-      "frisch_count": 8
+      "frisch_count": 8,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/one-pot-dumpling-suppe/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fone-pot-dumpling-suppe%2Fvorrat%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "vorrat_count": 8
     },
     {
       "slug": "pekannuss-tahini-dattel-schnitten",
@@ -526,7 +673,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/pekannuss-tahini-dattel-schnitten/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fpekannuss-tahini-dattel-schnitten%2F&source=web",
       "source_json": "recipes/pekannuss-tahini-dattel-schnitten.json",
-      "frisch_count": 2
+      "frisch_count": 2,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/pekannuss-tahini-dattel-schnitten/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fpekannuss-tahini-dattel-schnitten%2Fvorrat%2F&source=web",
+      "vorrat_count": 5
     },
     {
       "slug": "pesto-chicken-subs",
@@ -535,7 +685,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/pesto-chicken-subs/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fpesto-chicken-subs%2F&source=web&baseQuantity=12&requestedQuantity=12",
       "source_json": "recipes/pesto-chicken-subs.json",
-      "frisch_count": 5
+      "frisch_count": 5,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/pesto-chicken-subs/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fpesto-chicken-subs%2Fvorrat%2F&source=web&baseQuantity=12&requestedQuantity=12",
+      "vorrat_count": 4
     },
     {
       "slug": "phat-kaphrao",
@@ -544,7 +697,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/phat-kaphrao/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fphat-kaphrao%2F&source=web&baseQuantity=2&requestedQuantity=2",
       "source_json": "recipes/phat-kaphrao.json",
-      "frisch_count": 6
+      "frisch_count": 6,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/phat-kaphrao/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fphat-kaphrao%2Fvorrat%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "vorrat_count": 9
     },
     {
       "slug": "protein-bolognese-fuer-kinder",
@@ -553,7 +709,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/protein-bolognese-fuer-kinder/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fprotein-bolognese-fuer-kinder%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/protein-bolognese-fuer-kinder.json",
-      "frisch_count": 6
+      "frisch_count": 6,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/protein-bolognese-fuer-kinder/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fprotein-bolognese-fuer-kinder%2Fvorrat%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "vorrat_count": 5
     },
     {
       "slug": "proteinbrot-ohne-mehl",
@@ -562,7 +721,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/proteinbrot-ohne-mehl/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fproteinbrot-ohne-mehl%2F&source=web",
       "source_json": "recipes/proteinbrot-ohne-mehl.json",
-      "frisch_count": 4
+      "frisch_count": 4,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/proteinbrot-ohne-mehl/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fproteinbrot-ohne-mehl%2Fvorrat%2F&source=web",
+      "vorrat_count": 2
     },
     {
       "slug": "quinoa-milchreis-ohne-zucker",
@@ -580,7 +742,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rahmerbsen/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Frahmerbsen%2F&source=web",
       "source_json": "recipes/rahmerbsen.json",
-      "frisch_count": 6
+      "frisch_count": 6,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rahmerbsen/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Frahmerbsen%2Fvorrat%2F&source=web",
+      "vorrat_count": 5
     },
     {
       "slug": "rajma-masala",
@@ -589,7 +754,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rajma-masala/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Frajma-masala%2F&source=web&baseQuantity=6&requestedQuantity=6",
       "source_json": "recipes/rajma-masala.json",
-      "frisch_count": 10
+      "frisch_count": 10,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rajma-masala/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Frajma-masala%2Fvorrat%2F&source=web&baseQuantity=6&requestedQuantity=6",
+      "vorrat_count": 21
     },
     {
       "slug": "rote-linsen-mealprep-drei-gerichte",
@@ -598,7 +766,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rote-linsen-mealprep-drei-gerichte/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Frote-linsen-mealprep-drei-gerichte%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/rote-linsen-mealprep-drei-gerichte.json",
-      "frisch_count": 10
+      "frisch_count": 10,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/rote-linsen-mealprep-drei-gerichte/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Frote-linsen-mealprep-drei-gerichte%2Fvorrat%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "vorrat_count": 18
     },
     {
       "slug": "scharfe-poulet-nudelglaeser",
@@ -607,7 +778,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/scharfe-poulet-nudelglaeser/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fscharfe-poulet-nudelglaeser%2F&source=web&baseQuantity=3&requestedQuantity=3",
       "source_json": "recipes/scharfe-poulet-nudelglaeser.json",
-      "frisch_count": 6
+      "frisch_count": 6,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/scharfe-poulet-nudelglaeser/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fscharfe-poulet-nudelglaeser%2Fvorrat%2F&source=web&baseQuantity=3&requestedQuantity=3",
+      "vorrat_count": 7
     },
     {
       "slug": "schoko-mousse-avocado-banane-joghurt",
@@ -616,7 +790,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/schoko-mousse-avocado-banane-joghurt/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fschoko-mousse-avocado-banane-joghurt%2F&source=web",
       "source_json": "recipes/schoko-mousse-avocado-banane-joghurt.json",
-      "frisch_count": 3
+      "frisch_count": 3,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/schoko-mousse-avocado-banane-joghurt/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fschoko-mousse-avocado-banane-joghurt%2Fvorrat%2F&source=web",
+      "vorrat_count": 4
     },
     {
       "slug": "siebenbuergisches-sauerkraut-fass",
@@ -625,7 +802,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/siebenbuergisches-sauerkraut-fass/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fsiebenbuergisches-sauerkraut-fass%2F&source=web",
       "source_json": "recipes/siebenbuergisches-sauerkraut-fass.json",
-      "frisch_count": 5
+      "frisch_count": 5,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/siebenbuergisches-sauerkraut-fass/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fsiebenbuergisches-sauerkraut-fass%2Fvorrat%2F&source=web",
+      "vorrat_count": 6
     },
     {
       "slug": "spaghetti-aglio-e-olio",
@@ -634,7 +814,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/spaghetti-aglio-e-olio/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fspaghetti-aglio-e-olio%2F&source=web",
       "source_json": "recipes/spaghetti-aglio-e-olio.json",
-      "frisch_count": 3
+      "frisch_count": 3,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/spaghetti-aglio-e-olio/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fspaghetti-aglio-e-olio%2Fvorrat%2F&source=web",
+      "vorrat_count": 5
     },
     {
       "slug": "spaghetti-carbonara-ohne-sahne",
@@ -643,7 +826,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/spaghetti-carbonara-ohne-sahne/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fspaghetti-carbonara-ohne-sahne%2F&source=web",
       "source_json": "recipes/spaghetti-carbonara-ohne-sahne.json",
-      "frisch_count": 3
+      "frisch_count": 3,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/spaghetti-carbonara-ohne-sahne/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fspaghetti-carbonara-ohne-sahne%2Fvorrat%2F&source=web",
+      "vorrat_count": 4
     },
     {
       "slug": "sushi-wuerfel-eiswuerfelform",
@@ -652,7 +838,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/sushi-wuerfel-eiswuerfelform/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fsushi-wuerfel-eiswuerfelform%2F&source=web",
       "source_json": "recipes/sushi-wuerfel-eiswuerfelform.json",
-      "frisch_count": 2
+      "frisch_count": 2,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/sushi-wuerfel-eiswuerfelform/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fsushi-wuerfel-eiswuerfelform%2Fvorrat%2F&source=web",
+      "vorrat_count": 6
     },
     {
       "slug": "thai-rindfleischsalat-yum-neua",
@@ -661,7 +850,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/thai-rindfleischsalat-yum-neua/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fthai-rindfleischsalat-yum-neua%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/thai-rindfleischsalat-yum-neua.json",
-      "frisch_count": 8
+      "frisch_count": 8,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/thai-rindfleischsalat-yum-neua/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fthai-rindfleischsalat-yum-neua%2Fvorrat%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "vorrat_count": 7
     },
     {
       "slug": "zitronenpasta-zucchini-ricotta",
@@ -670,7 +862,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/zitronenpasta-zucchini-ricotta/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fzitronenpasta-zucchini-ricotta%2F&source=web&baseQuantity=3&requestedQuantity=3",
       "source_json": "recipes/zitronenpasta-zucchini-ricotta.json",
-      "frisch_count": 8
+      "frisch_count": 8,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/zitronenpasta-zucchini-ricotta/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fzitronenpasta-zucchini-ricotta%2Fvorrat%2F&source=web&baseQuantity=3&requestedQuantity=3",
+      "vorrat_count": 4
     },
     {
       "slug": "zitronige-kichererbsen-suppe",

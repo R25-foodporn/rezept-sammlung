@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Dirty Cabbage aus dem Airfryer – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "iRick Wiggins"
+  },
+  "description": "Weisskohl mit Hackfleisch, Paprika und Zwiebeln – 10 Min. bei ca. 200 °C, Mengen unklar",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "Knoblauch, gehackt, aus dem Glas (Menge unklar)",
+    "Worcestershire-Sauce (Menge unklar)",
+    "Gewürze (Sorte unklar, rötliches Pulver im Video, unverifiziert; Menge unklar)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Weisskohl in den Airfryer-Korb geben, darauf Hackfleisch (wirkt vorgebraten, unverifiziert), Paprika und Zwiebeln."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Knoblauch, Worcestershire-Sauce, Gewürze und Butterwürfel (unverifiziert) dazugeben."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Laut Einblendung 10 Min. bei 400 °F (ca. 200 °C) im Airfryer garen, dann servieren. Umrühren wird im Video nicht gezeigt."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/dirty-cabbage-airfryer/vorrat/",
+  "cookTime": "PT10M"
+}

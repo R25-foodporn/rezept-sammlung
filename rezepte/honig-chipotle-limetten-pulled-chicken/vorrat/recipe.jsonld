@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Honig-Chipotle-Limetten-Pulled-Chicken – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "FeastRecipes"
+  },
+  "description": "Aus dem Slow Cooker, ohne Öl – zerzupft mit Koriander, dazu Tortillas, Käse und Reis; Mengen unklar",
+  "recipeYield": "10 Portionen",
+  "recipeIngredient": [
+    "Chipotle-Chilis in Adobo-Sauce (aus der Dose, gehackt; Menge unklar)",
+    "Honig (Menge unklar)",
+    "Gewürze (Sorte unklar – rotes Pulver, evtl. Paprika oder Chili, unverifiziert; Menge unklar)",
+    "Tortillas oder Tostadas (zum Servieren; Menge unklar)",
+    "Reis (zum Servieren; Menge unklar)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Hähnchen von Fett befreien."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Knoblauch fein hacken, Zwiebel grob schneiden, Chipotles hacken, Limetten auspressen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Alles mit Honig und Gewürzen ohne Öl in den Slow Cooker geben und garen. Garzeit und Stufe: unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Fleisch im Topf zerzupfen und mit Koriander bestreuen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Auf Tortillas oder Tostadas mit geriebenem Käse und Reis servieren, oder portioniert aufbewahren bzw. einfrieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/honig-chipotle-limetten-pulled-chicken/vorrat/"
+}

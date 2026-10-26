@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Schoko-Mousse mit Avocado, Banane und Joghurt – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "Loretta Sweets"
+  },
+  "description": "Ohne raffinierten Zucker – gesüsst mit Banane und Honig",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "3 EL Kakaopulver",
+    "1 EL Honig",
+    "Vanille («etwas» laut Video – Menge unklar)",
+    "1 Prise Salz"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Zubereitung: unklar – im Video nicht gezeigt. Annahme (nicht verifiziert): vermutlich alle Zutaten fein pürieren und eventuell kühlen (Kühlzeit unklar)."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/schoko-mousse-avocado-banane-joghurt/vorrat/"
+}

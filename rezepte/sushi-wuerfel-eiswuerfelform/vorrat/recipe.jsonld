@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Sushi-Würfel aus der Eiswürfelform – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "Isabel Tummino"
+  },
+  "description": "Räucherlachs, Avocado und Reis in der Eiswürfelform gepresst",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "Reis, gekocht (Reste, ideal Sushi-Reis, Menge unklar)",
+    "Nori-Blätter (Menge unklar)",
+    "1 Stück Frischhaltefolie",
+    "Spicy Mayo (zum Toppen, Menge unklar)",
+    "Sesam, geröstet (Menge unklar)",
+    "Coconut Aminos oder Sojasauce (Menge unklar)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "abgeleitet aus dem Video: Eiswürfelform mit Frischhaltefolie auslegen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "abgeleitet aus dem Video: Räucherlachs in Stücken in die Mulden legen, dann Avocado darauf."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "abgeleitet aus dem Video: Reis darauf verteilen und mit einem Löffel fest andrücken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "abgeleitet aus dem Video: Nori-Stücke obendrauf legen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "abgeleitet aus dem Video: Ein Brett auflegen, alles umdrehen und die Form samt Folie abheben."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "abgeleitet aus dem Video: Mit Spicy Mayo und Sesam toppen, Coconut Aminos oder Sojasauce zum Dippen dazu."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Kleinkind-Version laut Familiennotiz von SecondBrain, nicht aus der Quelle: Räucherlachs weglassen."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/sushi-wuerfel-eiswuerfelform/vorrat/"
+}

@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Pekannuss-Tahini-Dattel-Schnitten – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "Claire Sharryn Roberto"
+  },
+  "description": "Dattelboden, geröstete Pekannüsse, Tahini, Orangenblüten-Butter und 85 % Schokolade",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "120 ml Tahini, flüssig (≈ ½ Cup laut Quelle; Umrechnung ungefähr)",
+    "75–90 g Pekannüsse (≈ ¾ Cup laut Quelle; Umrechnung ungefähr)",
+    "125 g Zartbitterschokolade 85 % (geschmolzen)",
+    "1 EL Orangenblütenwasser (laut Creatorin alternativ Kardamom, Menge unklar)",
+    "1 Prise Fleur de Sel / Flockensalz (eine gute Prise)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Ofen auf 180 °C vorheizen (Heizart unklar). Pekannüsse auf einem mit Backpapier belegten Blech 10 Min. rösten, nach der Hälfte wenden. Gut aufpassen – sie verbrennen schnell."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Datteln in eine mit Backpapier ausgelegte Form legen (Grösse unklar) und fest zu einem gleichmässigen Boden pressen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Geröstete Pekannüsse darüberstreuen und leicht andrücken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Tahini darübergiessen und gleichmässig verstreichen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Butter sanft schmelzen, Orangenblütenwasser einrühren und langsam über die Tahini-Schicht giessen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Geschmolzene Schokolade darübergiessen, leicht marmorieren und mit Flockensalz bestreuen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "1 Std. im Kühlschrank fest werden lassen, dann in Quadrate schneiden."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/pekannuss-tahini-dattel-schnitten/vorrat/",
+  "cookTime": "PT10M"
+}

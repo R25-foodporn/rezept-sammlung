@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Zitronenpasta mit Zucchini und Ricotta – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "Bruno Pecorino"
+  },
+  "description": "Sommerpasta al limone mit Tomate und Basilikum",
+  "recipeYield": "3 Portionen",
+  "recipeIngredient": [
+    "ca. 300–350 g Pasta, z. B. Spaghetti/Penne (ca., geschätzt aus Video; Menge nicht in der Beschreibung)",
+    "ca. 2–3 EL Olivenöl («raumhaft» laut Video, ca., geschätzt aus Video)",
+    "Salz (für Pasta-Wasser und Pfanne)",
+    "Pfeffer (nach Geschmack)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Zwiebel halbieren und fein würfeln, Knoblauch fein hacken. In einer Pfanne bei mittlerer Hitze reichlich Olivenöl erhitzen, Zwiebel und Knoblauch andünsten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Zucchini der Länge nach halbieren und in Streifen schneiden. Zu den angedünsteten Zwiebeln geben, mit Salz und Pfeffer würzen und schwenken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Hitze reduzieren. Ricotta, Zitronenzesten und den Saft einer halben Zitrone einrühren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Pasta parallel in reichlich gesalzenem Wasser al dente kochen. Tomaten in grosse Würfel schneiden (Mini-Tomaten ganz lassen)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Abgegossene Pasta in die Pfanne geben, etwas Pastawasser unterheben. Herd aus: Tomaten und Basilikumblätter unterschwenken, mit Pfeffer abschmecken. Optional Pecorino darüberreiben und servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/zitronenpasta-zucchini-ricotta/vorrat/",
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M"
+}

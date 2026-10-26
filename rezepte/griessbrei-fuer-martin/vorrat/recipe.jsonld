@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Griessbrei für Martin – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "Eigener Vorschlag Essen, nicht aus einer Quelle"
+  },
+  "description": "Ohne Zucker, Honig und Salz – nur mit Birnen- oder Apfelmus gesüsst",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "25 g Hartweizen- oder Dinkelgriess (z. B. M-Classic Hartweizengriess; Weichweizengriess wird feiner)",
+    "Birnen- oder Apfelmus (Menge unklar; ohne Zuckerzusatz)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Vollmilch aufkochen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Griess einrühren und 3–5 Min. unter Rühren quellen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Variante Monsieur Cuisine: Milch ca. 4 Min. bei 90 °C, Stufe 2 erhitzen (Vorlage 6 Min. für 500 ml, auf 250 ml geschätzt). Griess durch die Deckelöffnung einrieseln lassen, dann 5 Min. bei 90 °C, Linkslauf, Stufe 2."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Variante Mikrowelle (Siemens Kombi «Mike»), geschätzt, nicht aus der Quelle, nicht getestet: Milch ca. 3 Min. bei 600 W erhitzen (Vorlage 5 Min. für 500 ml), Griess einrühren, dann 2–3 Min. bei 600 W, jede Minute rühren. 2 Min. quellen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Tipp Hartweizengriess: wird etwas körniger, 1–2 Min. länger garen und bei Bedarf einen Schuss Milch dazugeben."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Mit Birnen- oder Apfelmus servieren. Kein Zucker, kein Honig, kein Salz."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Für Martin, fast 1 J.: vor dem Essen abkühlen lassen und die Temperatur prüfen. Gabriel, 3 J., kann mitessen."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/griessbrei-fuer-martin/vorrat/",
+  "totalTime": "PT10M"
+}

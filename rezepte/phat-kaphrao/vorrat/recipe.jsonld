@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Phat Kaphrao – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "bennebenzing"
+  },
+  "description": "Thai-Basilikum-Hack mit knusprigem Spiegelei und Jasminreis",
+  "recipeYield": "2 Portionen",
+  "recipeIngredient": [
+    "150 g Jasminreis",
+    "2 EL neutrales Öl, hoch erhitzbar (für das Hack)",
+    "neutrales Öl (ca. 1 cm hoch in einer kleinen Pfanne, für die Spiegeleier)",
+    "2 EL Austernsauce",
+    "1 EL Fischsauce",
+    "1 EL helle Sojasauce",
+    "1 TL dunkle Sojasauce",
+    "1 TL brauner Zucker",
+    "3 EL Wasser"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Jasminreis waschen und garen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Austernsauce, Fischsauce, helle und dunkle Sojasauce, braunen Zucker und Wasser verrühren und griffbereit an den Herd stellen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Schalotte, Knoblauch und Chili im Zerkleinerer kurz pulsen – fein gehackt, keine Paste. Ohne Gerät: fein hacken."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Pfanne richtig heiss werden lassen, Öl hinein, Hack flach andrücken. 2–3 Min. NICHT rühren, bis die Unterseite braun geröstet ist. Dann wenden und krümelig fertig braten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Hitze auf mittel reduzieren, den gehackten Mix dazugeben und 1–2 Min. mitbraten, bis es duftet."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Sauce angiessen und 1–2 Min. einkochen, bis sie glänzend am Fleisch hängt. Zu trocken? 1–2 EL Wasser nachgeben."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Herd ausschalten, Basilikum unterheben und nur zusammenfallen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "text": "Parallel die Spiegeleier braten: reichlich richtig heisses Öl, mit dem Löffel heisses Öl übers Eiweiss schöpfen. Rand braun und blasig, Eigelb flüssig – nicht wenden."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "text": "Reis in die Schüssel, Hack darüber, Spiegelei obendrauf."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/phat-kaphrao/vorrat/",
+  "totalTime": "PT30M"
+}

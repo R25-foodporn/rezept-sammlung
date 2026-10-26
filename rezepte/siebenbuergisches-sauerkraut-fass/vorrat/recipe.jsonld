@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Siebenbürgisches Sauerkraut im Fass – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "Zeit mit Oma"
+  },
+  "description": "Ganze Krautköpfe in Salzlake mit Kräutern und Quitten",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "2 kg Salz (auf 40 l Wasser)",
+    "40 l Wasser (pro 2 kg Salz, Gesamtmenge unklar)",
+    "Bohnenkraut (im Frühjahr vor der Blüte geschnitten, getrocknet, gebündelt, Menge unklar)",
+    "1  Lebensmittelechtes Gärfass (im Video 100 l laut Ton, 120 l HDPE laut Titel und Beschreibung)",
+    "Holzbrett und Deckel (zum Beschweren und Abdecken, Holzart unklar)",
+    "1  Schlauch (nur dafür verwendet, zum Umwälzen)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Den Strunk jedes Krautkopfs einschneiden. Früher wurde er ausgebohrt, das macht Oma heute nicht mehr. Schnittform im Video nicht eindeutig zu erkennen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Ein ganz wenig von der Spitze wegschneiden, damit das Salzwasser in den eingeschnittenen Kopf hineinkommt."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Das getrocknete Bohnenkraut vor dem Einlegen nochmals kurz waschen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Unten ins Fass Bohnenkraut, etwas Dill, Sellerieblätter mit Wurzel und Meerrettich legen. Quitten oder Äpfel dazu, alles optional und Geschmackssache."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Die grössten Köpfe zuunterst ins Fass legen, die anderen dazwischen. Im Video liegt der erste Kopf mit dem Strunk nach oben."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Salzwasser mit 2 kg Salz auf 40 l Wasser anrühren und über das Kraut giessen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Ein Holzbrett zum Beschweren darauflegen, dann den Deckel drauf."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "text": "Ein paar Tage stehen lassen, Anzahl Tage unklar. Dann öffnen und die Lake mit einem Schlauch umwälzen. Alternativ das Kraut nur herunterdrücken und die Lake hochkommen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "text": "Gärdauer bis zum fertigen Sauerkraut: unklar, im Video nicht angegeben."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/siebenbuergisches-sauerkraut-fass/vorrat/"
+}

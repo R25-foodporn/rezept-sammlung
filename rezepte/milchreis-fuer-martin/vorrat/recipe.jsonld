@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Milchreis für Martin – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "Eigener Vorschlag Essen, nicht aus einer Quelle"
+  },
+  "description": "Ohne Zucker, Honig und Salz – mit Apfel oder Banane und Zimt",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "50 g Milchreis (z. B. Mister Rice Originario, Rundkorn, 25–30 Min. auf dem Herd)",
+    "1 Prise Zimt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Milchreis und Vollmilch in einen Topf geben und aufkochen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Zugedeckt ca. 30 Min. köcheln lassen und dabei oft rühren, damit nichts anbrennt."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Mit geriebenem Apfel oder zerdrückter Banane und einer Prise Zimt mischen. Kein Zucker, kein Honig, kein Salz."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Für Martin, fast 1 J.: vor dem Essen gut abkühlen lassen und die Temperatur prüfen. Gabriel, 3 J., kann mitessen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Variante Monsieur Cuisine (Lidl): alles in den Mixtopf, 35 Min. (Mister Rice Originario 30–35 Min.) bei 95 °C, Linkslauf, Stufe 1. Ohne Messbecher, Gareinsatz als Spritzschutz auf den Deckel. Mixtopf höchstens halb voll, max. 1 l Milch. 10 Min. quellen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Variante Mikrowelle (Siemens Kombi «Mike»), geschätzt, nicht aus der Quelle, nicht getestet: grosse hohe Schüssel, höchstens ⅓ voll, ohne Deckel. Ca. 5 Min. bei 800 W aufkochen, dann 25–30 Min. bei 360 W, alle 5 Min. rühren. 10 Min. quellen lassen. Tipp: Monsieur Cuisine ist einfacher."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/milchreis-fuer-martin/vorrat/",
+  "cookTime": "PT30M"
+}

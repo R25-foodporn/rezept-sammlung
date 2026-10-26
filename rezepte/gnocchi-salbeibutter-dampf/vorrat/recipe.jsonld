@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Gnocchi mit Salbeibutter – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "Siemens Cooking inspirations CS858GRB7B, S. 57"
+  },
+  "description": "Siemens Dampfgaren · Steffi (CS756G1B1) · 100 °C",
+  "recipeYield": "4 Portionen",
+  "recipeIngredient": [
+    "120 g Mehl",
+    "Salz (nach Belieben)",
+    "weisser Pfeffer (nach Belieben)",
+    "Muskatnuss, frisch gerieben (nach Belieben)",
+    "1 TL Speiseöl (für den Dampfgarbehälter)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Kartoffeln schälen, vierteln und im gelochten Dampfgarbehälter dämpfen: Dampfgaren 100 °C, 20–25 Min. Universalpfanne Ebene 1, grosser gelochter Behälter Ebene 2."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Kartoffeln heiss durch die Presse drücken. Mit Mehl und Eiern mischen, mit Salz, Pfeffer und Muskat würzen und zu einem formbaren Teig kneten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Fingerdicke Rollen formen, in 3 cm lange Stücke schneiden und mit dem Gabelrücken Rillen eindrücken. Behälter mit Öl einfetten, Gnocchi eng hineinlegen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Gnocchi dämpfen: Dampfgaren 100 °C, 6–8 Min."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Butter in einer tiefen Pfanne aufschäumen lassen, Salbei darin schwenken. Gut abgetropfte Gnocchi kurz darin schwenken und mit Parmesan servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/gnocchi-salbeibutter-dampf/vorrat/",
+  "cookTime": "PT33M"
+}

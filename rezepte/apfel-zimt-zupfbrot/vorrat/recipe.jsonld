@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Apfel-Zimt-Zupfbrot – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "Hensslers Schnelle Nummer"
+  },
+  "description": "Zimtschnecke trifft Apfelstrudel – gestapelt in der Kastenform",
+  "recipeYield": "1 Portionen",
+  "recipeIngredient": [
+    "140 g brauner Zucker",
+    "3 EL Zimt (½ EL für die Äpfel, 2½ EL für die Zimtbutter)",
+    "1 Pck. Vanillezucker",
+    "1.5 TL Speisestärke",
+    "Mehl (für die Arbeitsfläche)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Äpfel schälen, entkernen und fein würfeln. 15 g Butter in einer Pfanne langsam zerlassen, Apfelwürfel darin kurz andünsten. Vanillezucker und ½ EL Zimt zugeben, Speisestärke einrühren und kurz weitergaren, bis die Masse leicht gebunden ist. Abkühlen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "100 g weiche Butter mit braunem Zucker und 2½ EL Zimt zu einer gleichmässigen Zimt-Zucker-Butter verrühren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Hefeteig auf leicht bemehlter Fläche ausrollen, gleichmässig mit der Zimtbutter bestreichen und die abgekühlten Äpfel darauf verteilen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Teig in gleich grosse Quadrate schneiden, die in die Kastenform passen. Form einfetten oder mit Backpapier auslegen. Quadrate aufeinanderstapeln und hochkant nebeneinander in die Form setzen. Zugedeckt ca. 30 Min. gehen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Backofen auf 180 °C Umluft vorheizen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Ca. 45 Min. backen, bis das Zupfbrot goldbraun und karamellisiert ist. Am besten warm servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/apfel-zimt-zupfbrot/vorrat/",
+  "cookTime": "PT45M"
+}

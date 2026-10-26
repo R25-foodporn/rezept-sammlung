@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Apfelgratin – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "Siemens varioSpeed-Heft S. 26"
+  },
+  "description": "Siemens varioSpeed · Mike (HM736G1B1C) · Umluftgrill + Mikrowelle",
+  "recipeYield": "4 Portionen",
+  "recipeIngredient": [
+    "100 g Zucker",
+    "2 Pck. Vanillezucker",
+    "50 g Mehl",
+    "1 TL Backpulver (gestrichen)",
+    "50 g Walnusskerne oder Haselnusskrokant (Eigene Anpassung: für Kinder weglassen)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Aus Ei, Zucker, Vanillezucker, Butter, Mehl, Backpulver und Milch einen Rührteig herstellen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Äpfel grob raspeln, unter den Teig mischen und in eine ausgebutterte Pie-Form oder kleine Porzellanform füllen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Geviertelte Walnusskerne oder Haselnusskrokant darüber verteilen. Eigene Anpassung: für die Kinder ohne Nüsse."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Backen: Umluftgrill 205 °C + Mikrowelle 360 W, ca. 16 Min."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/apfelgratin-siemens/vorrat/",
+  "cookTime": "PT16M"
+}
