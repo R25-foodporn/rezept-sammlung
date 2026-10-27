@@ -8,7 +8,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/verdrehte-apfelkuchen-rollen/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fverdrehte-apfelkuchen-rollen%2F&source=web&baseQuantity=12&requestedQuantity=12",
       "source_json": "recipes/verdrehte-apfelkuchen-rollen.json",
-      "frisch_count": 9
+      "frisch_count": 9,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/verdrehte-apfelkuchen-rollen/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fverdrehte-apfelkuchen-rollen%2Fvorrat%2F&source=web&baseQuantity=12&requestedQuantity=12",
+      "vorrat_count": 15
     },
     {
       "slug": "einfache-linsensuppe",
@@ -236,7 +239,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/erdnuss-nudeln/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Ferdnuss-nudeln%2F&source=web",
       "source_json": "recipes/erdnuss-nudeln.json",
-      "frisch_count": 2
+      "frisch_count": 2,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/erdnuss-nudeln/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Ferdnuss-nudeln%2Fvorrat%2F&source=web",
+      "vorrat_count": 7
     },
     {
       "slug": "feta-olivenoel-dip",
@@ -483,7 +489,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/keto-kaesekuchen-happen-airfryer/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fketo-kaesekuchen-happen-airfryer%2F&source=web&baseQuantity=12&requestedQuantity=12",
       "source_json": "recipes/keto-kaesekuchen-happen-airfryer.json",
-      "frisch_count": 3
+      "frisch_count": 3,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/keto-kaesekuchen-happen-airfryer/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fketo-kaesekuchen-happen-airfryer%2Fvorrat%2F&source=web&baseQuantity=12&requestedQuantity=12",
+      "vorrat_count": 8
     },
     {
       "slug": "kichererbsen-bratlinge",
@@ -652,7 +661,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/okonomiyaki/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fokonomiyaki%2F&source=web",
       "source_json": "recipes/okonomiyaki.json",
-      "frisch_count": 4
+      "frisch_count": 4,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/okonomiyaki/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fokonomiyaki%2Fvorrat%2F&source=web",
+      "vorrat_count": 14
     },
     {
       "slug": "one-pot-dumpling-suppe",
@@ -733,7 +745,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/quinoa-milchreis-ohne-zucker/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fquinoa-milchreis-ohne-zucker%2F&source=web&baseQuantity=2&requestedQuantity=2",
       "source_json": "recipes/quinoa-milchreis-ohne-zucker.json",
-      "frisch_count": 3
+      "frisch_count": 3,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/quinoa-milchreis-ohne-zucker/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fquinoa-milchreis-ohne-zucker%2Fvorrat%2F&source=web&baseQuantity=2&requestedQuantity=2",
+      "vorrat_count": 9
     },
     {
       "slug": "rahmerbsen",
@@ -874,7 +889,10 @@
       "page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/zitronige-kichererbsen-suppe/",
       "bring_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fzitronige-kichererbsen-suppe%2F&source=web&baseQuantity=4&requestedQuantity=4",
       "source_json": "recipes/zitronige-kichererbsen-suppe.json",
-      "frisch_count": 7
+      "frisch_count": 7,
+      "vorrat_page_url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/zitronige-kichererbsen-suppe/vorrat/",
+      "bring_vorrat_deeplink": "https://api.getbring.com/rest/bringrecipes/deeplink?url=https%3A%2F%2Fr25-foodporn.github.io%2Frezept-sammlung%2Frezepte%2Fzitronige-kichererbsen-suppe%2Fvorrat%2F&source=web&baseQuantity=4&requestedQuantity=4",
+      "vorrat_count": 9
     }
   ]
 }

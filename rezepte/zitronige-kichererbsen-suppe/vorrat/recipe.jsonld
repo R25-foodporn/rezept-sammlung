@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Zitronige Kichererbsen-Suppe – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "Rainbow Plant Life"
+  },
+  "description": "Lemony Chickpea Soup – cremig, vegan, mit Dill und Kichererbsen-Püree",
+  "recipeYield": "4 Portionen",
+  "recipeIngredient": [
+    "65–70 g Langkorn-Weissreis (⅓ Tasse; spülen)",
+    "56 g Olivenöl extra vergine (¼ Tasse ≈ 4 EL; plus etwas zum Beträufeln)",
+    "2 EL Tomatenmark",
+    "Gewürze (2 TL Oregano, ½ TL Koriander, ½ TL Kurkuma, ¼–½ TL Chiliflocken)",
+    "960 ml Gemüsebrühe (4 cups)",
+    "120 ml cremige ungesüsste Pflanzenmilch (½ Tasse; Haferdrink oder lite-Kokosmilch)",
+    "20 g Hefeflocken, Nutritional Yeast (¼ Tasse)",
+    "1 EL weisse Miso-Paste",
+    "Salz und schwarzer Pfeffer (nach Geschmack)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Reis in einem feinen Sieb spülen bis das Wasser fast klar ist, abtropfen lassen. Eine Dose Kichererbsen abtropfen und spülen (für die Suppe). Die zweite Dose abtropfen, spülen und in den Mixer/Foodprocessor geben (fürs Püree)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Olivenöl in grossem Topf oder Dutch Oven mittelhoch erhitzen. Karotten und Zwiebel mit etwas Salz 8–10 Min. andünsten bis weich und leicht gebräunt; bei Bedarf mit einem Schuss Brühe ablöschen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Knoblauch 2 Min. mitrösten. Tomatenmark, Oregano, Koriander, Kurkuma und Chiliflocken 1–2 Min. einrühren bis das Mark ziegelrot wird."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Reis 1 Min. mitrösten. Die ganze Dose Kichererbsen, ¼ TL Salz und Pfeffer untermengen. Brühe und die Hälfte des Dills zugeben, aufkochen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Zugedeckt bei niedriger Hitze ca. 15 Min. köcheln bis der Reis weich ist. Parallel Spinat grob hacken und Kichererbsen-Püree zubereiten."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Püree: Mixer-Kichererbsen mit Pflanzenmilch, Zitronenabrieb, 2 EL Zitronensaft, Hefeflocken, Miso, 1 TL Salz und Pfeffer cremig pürieren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Püree und Spinat in die Suppe rühren, 1–2 Min. köcheln bis sie dicklicher wird und der Spinat leicht zusammenfällt. Herd aus: restlichen Dill und 1 EL Zitronensaft unterrühren, abschmecken. In Schalen mit etwas Olivenöl servieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/zitronige-kichererbsen-suppe/vorrat/",
+  "prepTime": "PT20M",
+  "cookTime": "PT35M",
+  "totalTime": "PT55M"
+}

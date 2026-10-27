@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Okonomiyaki – Vorrat",
+  "author": {
+    "@type": "Person",
+    "name": "Mama Lyd"
+  },
+  "description": "Japanischer Kohlpfannkuchen mit Speck und Kewpie-Mayo",
+  "recipeYield": "Portionen unklar",
+  "recipeIngredient": [
+    "Wasser (Menge unklar)",
+    "Mehl (Menge unklar)",
+    "ca. 120 ml Panko (½ Cup, umgerechnet)",
+    "Dashi (Menge unklar)",
+    "Salz (Menge unklar)",
+    "Backpulver (Menge unklar)",
+    "2 EL Ketchup (Sauce)",
+    "1 EL Austernsauce (Sauce)",
+    "1 EL Sojasauce (Sauce)",
+    "1 EL Worcestershire-Sauce (Sauce)",
+    "1 EL Honig oder Zucker (im Video scharfer Honig)",
+    "Avocadoöl (Menge unklar)",
+    "Kewpie-Mayonnaise (Menge unklar)",
+    "Furikake (Spicy; Menge unklar)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Kohl vom Strunk befreien und fein schneiden, mit der Frühlingszwiebel in einer grossen Schüssel mischen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Wasser und 1 Ei verquirlen, Mehl, Panko, Dashi, Salz und Backpulver unterrühren. Noch etwas Wasser und das zweite Ei dazugeben."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Teig zum Kohl geben, mischen und ruhen lassen. Ruhezeit unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Für die Sauce Ketchup, Austern-, Soja- und Worcestershire-Sauce sowie Honig verrühren."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Öl in einer heissen Pfanne erhitzen, Teig hineingeben und braten, bis die Unterseite knusprig ist. Zeit und Hitze unklar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Auf einen Teller gleiten lassen, gewendet zurück in die Pfanne geben, mit Sauce bestreichen und mit Speck belegen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Mit derselben Methode nochmals wenden und braten, bis der Speck knusprig ist. Fett mit Haushaltpapier abtupfen."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "text": "Auf einen Teller geben, mit Sauce, Kewpie-Mayo und Furikake garnieren."
+    }
+  ],
+  "url": "https://r25-foodporn.github.io/rezept-sammlung/rezepte/okonomiyaki/vorrat/"
+}
